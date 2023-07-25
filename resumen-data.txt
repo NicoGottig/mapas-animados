@@ -1,0 +1,2051 @@
+anio	trimestre	aglomerado_origen	localidad_destino	viajantes
+2012	1	Concordia	Avellaneda	614
+2012	1	Concordia	Cañuelas	4857
+2012	1	Concordia	Ciudad de Buenos Aires	11576
+2012	1	Concordia	Colón	9800
+2012	1	Concordia	Concordia	30948
+2012	1	Concordia	Curuzú Cuatiá	1784
+2012	1	Concordia	Federación	4511
+2012	1	Concordia	Fiambalá	1228
+2012	1	Concordia	General Campos	890
+2012	1	Concordia	Jardín América	594
+2012	1	Concordia	La Plata	1186
+2012	1	Concordia	Paraná	1186
+2012	1	Concordia	Pinamar	2372
+2012	1	Concordia	Puerto Yeruá	14940
+2012	1	Concordia	Santa Fe	9218
+2012	1	Paraná	Aldea Valle María	39682
+2012	1	Paraná	Cerrito	2628
+2012	1	Paraná	Ciudad de Buenos Aires	2483
+2012	1	Paraná	Colón	29739
+2012	1	Paraná	Concordia	1314
+2012	1	Paraná	Crespo	670
+2012	1	Paraná	Diamante	1995
+2012	1	Paraná	Don Torcuato	1971
+2012	1	Paraná	Esquel	1971
+2012	1	Paraná	Federal	6030
+2012	1	Paraná	Guadalupe Norte	1971
+2012	1	Paraná	Gualeguaychú	6552
+2012	1	Paraná	Hasenkamp	1971
+2012	1	Paraná	La Picada	36819
+2012	1	Paraná	Las Flores	19446
+2012	1	Paraná	Mar de Ajó	670
+2012	1	Paraná	Mar del Plata	8364
+2012	1	Paraná	María Grande	1314
+2012	1	Paraná	Merlo	1971
+2012	1	Paraná	Oliveros	1314
+2012	1	Paraná	Paraná	17424
+2012	1	Paraná	Piedras Blancas	3328
+2012	1	Paraná	Pueblo Brugo	832
+2012	1	Paraná	Rosario	5703
+2012	1	Paraná	San Carlos de Bariloche	17424
+2012	1	Paraná	San Miguel	1354
+2012	1	Paraná	San Nicolás de los Arroyos	6489
+2012	1	Paraná	Santa Elena	35160
+2012	1	Paraná	Santa Fe	31093
+2012	1	Paraná	Victoria	13953
+2012	1	Paraná	Villa Carlos Paz	1971
+2012	1	Paraná	Villa Urquiza	50462
+2012	1	Paraná	Villaguay	25455
+2012	2	Concordia	Chajarí	5502
+2012	2	Concordia	Chapadmalal	8000
+2012	2	Concordia	Ciudad de Buenos Aires	431
+2012	2	Concordia	Curuzú Cuatiá	4616
+2012	2	Concordia	Córdoba	1844
+2012	2	Concordia	Federación	4083
+2012	2	Concordia	Federal	4644
+2012	2	Concordia	Paraná	21008
+2012	2	Concordia	Pilar	433
+2012	2	Concordia	Puerto Iguazú	433
+2012	2	Concordia	Puerto Yeruá	35744
+2012	2	Concordia	Rosario	5364
+2012	2	Concordia	Río Gallegos	862
+2012	2	Concordia	San Antonio de Areco	1305
+2012	2	Concordia	San Rafael (Ciudad)	910
+2012	2	Concordia	Santa Ana	6258
+2012	2	Concordia	Santa Fe	901
+2012	2	Concordia	Villa Carlos Paz	1792
+2012	2	Paraná	25 de Mayo	7960
+2012	2	Paraná	Alta Gracia	1028
+2012	2	Paraná	Berazategui	3884
+2012	2	Paraná	Ciudad de Buenos Aires	6947
+2012	2	Paraná	Colón	1882
+2012	2	Paraná	Concepción del Uruguay	11524
+2012	2	Paraná	Concordia	4848
+2012	2	Paraná	Diamante	10300
+2012	2	Paraná	General Ramírez	22421
+2012	2	Paraná	Gualeguay	1882
+2012	2	Paraná	La Paz	3104
+2012	2	Paraná	Las Flores	3692
+2012	2	Paraná	Libertador San Martín	968
+2012	2	Paraná	Mar del Plata	8686
+2012	2	Paraná	Puerto Iguazú	2064
+2012	2	Paraná	Puíggari	2012
+2012	2	Paraná	Rosario	10730
+2012	2	Paraná	Rosario del Tala	1017
+2012	2	Paraná	Salta	10228
+2012	2	Paraná	San Benito	15690
+2012	2	Paraná	San Carlos de Bariloche	2290
+2012	2	Paraná	San Clemente del Tuyú	916
+2012	2	Paraná	San José de Feliciano	916
+2012	2	Paraná	San Martín (Ciudad)	526
+2012	2	Paraná	San Rafael (Ciudad)	3022
+2012	2	Paraná	Santa Fe	31390
+2012	2	Paraná	Victoria	12561
+2012	2	Paraná	Villa Urquiza	2888
+2012	2	Paraná	Villaguay	3539
+2012	3	Concordia	Chajarí	1569
+2012	3	Concordia	Ciudad de Buenos Aires	57424
+2012	3	Concordia	Corrientes	1033
+2012	3	Concordia	Federación	12912
+2012	3	Concordia	Monte Caseros	20020
+2012	3	Concordia	Moreno	954
+2012	3	Concordia	Paraná	20020
+2012	3	Concordia	Puerto Yeruá	954
+2012	3	Concordia	Ramos Mejía	477
+2012	3	Concordia	San Jaime de la Frontera	1440
+2012	3	Concordia	San Miguel de Tucumán	956
+2012	3	Concordia	San Rafael (Ciudad)	139
+2012	3	Concordia	Santa Fe	574
+2012	3	Paraná	Aldea Valle María	1875
+2012	3	Paraná	Ciudad de Buenos Aires	41161
+2012	3	Paraná	Colón	305
+2012	3	Paraná	Concepción del Uruguay	610
+2012	3	Paraná	Corrientes	869
+2012	3	Paraná	Crespo	915
+2012	3	Paraná	Diamante	3405
+2012	3	Paraná	Federación	750
+2012	3	Paraná	General Ramírez	880
+2012	3	Paraná	Gualeguay	304
+2012	3	Paraná	Hasenkamp	153
+2012	3	Paraná	Maciá	157
+2012	3	Paraná	Mar del Plata	434
+2012	3	Paraná	María Grande	922
+2012	3	Paraná	Piedras Blancas	25160
+2012	3	Paraná	Posadas (Municipio de Posadas)	868
+2012	3	Paraná	Potrerillos	18972
+2012	3	Paraná	Puerto Iguazú	1305
+2012	3	Paraná	Rosario	2697
+2012	3	Paraná	Salta	608
+2012	3	Paraná	San Miguel de Tucumán	434
+2012	3	Paraná	San Rafael (Ciudad)	1302
+2012	3	Paraná	Santa Fe	27150
+2012	3	Paraná	Santiago del Estero	9736
+2012	3	Paraná	Urdinarrain	962
+2012	3	Paraná	Viale	922
+2012	3	Paraná	Victoria	153
+2012	3	Paraná	Villa Elisa	458
+2012	3	Paraná	Villa Urquiza	28172
+2012	4	Concordia	Chajarí	848
+2012	4	Concordia	Colón	23131
+2012	4	Concordia	Concepción del Uruguay	7561
+2012	4	Concordia	Corrientes	1038
+2012	4	Concordia	Federación	28530
+2012	4	Concordia	José C. Paz	401
+2012	4	Concordia	Mendoza, Ciudad de	1384
+2012	4	Concordia	Puerto Yeruá	4945
+2012	4	Concordia	Rosario	240
+2012	4	Concordia	Salta	4747
+2012	4	Concordia	San Carlos de Bariloche	330
+2012	4	Concordia	San José	1217
+2012	4	Concordia	San Salvador	9380
+2012	4	Concordia	Santa Fe	216
+2012	4	Concordia	Villa Carlos Paz	414
+2012	4	Concordia	Villa Elisa	502
+2012	4	Concordia	Villa Giardino	454
+2012	4	Paraná	Agua de Oro	1233
+2012	4	Paraná	Aldea Brasilera	4360
+2012	4	Paraná	Aldea María Luisa	1908
+2012	4	Paraná	Aldea Valle María	2408
+2012	4	Paraná	Chajarí	352
+2012	4	Paraná	Ciudad de Buenos Aires	3162
+2012	4	Paraná	Colón	4264
+2012	4	Paraná	Concepción del Uruguay	7909
+2012	4	Paraná	Concordia	969
+2012	4	Paraná	Córdoba	592
+2012	4	Paraná	Diamante	755
+2012	4	Paraná	Federación	1321
+2012	4	Paraná	Federal	869
+2012	4	Paraná	Hernandarias	4120
+2012	4	Paraná	Huerta Grande	294
+2012	4	Paraná	Islas	320
+2012	4	Paraná	La Banda	2112
+2012	4	Paraná	La Falda	306
+2012	4	Paraná	La Paz	153
+2012	4	Paraná	La Picada	2940
+2012	4	Paraná	Magdalena	1041
+2012	4	Paraná	Mar del Plata	3174
+2012	4	Paraná	Oro Verde	15346
+2012	4	Paraná	Puerto Iguazú	2368
+2012	4	Paraná	Rosario	6758
+2012	4	Paraná	Salta	1516
+2012	4	Paraná	San Javier y Yacanto	306
+2012	4	Paraná	San José de Feliciano	10401
+2012	4	Paraná	Santa Fe	33417
+2012	4	Paraná	Santa Rosa de Río Primero	11000
+2012	4	Paraná	Santo Tomé	26841
+2012	4	Paraná	Valle Hermoso	731
+2012	4	Paraná	Viale	1458
+2012	4	Paraná	Victoria	280
+2012	4	Paraná	Villa Urquiza	7926
+2012	4	Paraná	Villaguay	1488
+2013	1	Concordia	Chajarí	16352
+2013	1	Concordia	Colón	1594
+2013	1	Concordia	Concordia	82746
+2013	1	Concordia	Federación	4168
+2013	1	Concordia	Gualeguaychú	444
+2013	1	Concordia	Mar del Plata	1060
+2013	1	Concordia	Neuquén	148
+2013	1	Concordia	Oberá	307
+2013	1	Concordia	Paraná	5062
+2013	1	Concordia	Pinamar	447
+2013	1	Concordia	Salta	444
+2013	1	Concordia	San Pedro	1071
+2013	1	Concordia	Santa Rosa de Calamuchita	8876
+2013	1	Concordia	Tandil	1956
+2013	1	Concordia	Villa Gesell	296
+2013	1	Paraná	Cerrito	1467
+2013	1	Paraná	Ciudad de Buenos Aires	14423
+2013	1	Paraná	Colón	90290
+2013	1	Paraná	Concordia	290
+2013	1	Paraná	Coronda	247
+2013	1	Paraná	Córdoba	142
+2013	1	Paraná	Diamante	68896
+2013	1	Paraná	Empedrado	474
+2013	1	Paraná	Esperanza	1148
+2013	1	Paraná	Federación	3529
+2013	1	Paraná	Guadalupe Norte	142
+2013	1	Paraná	Gualeguaychú	4270
+2013	1	Paraná	Hernandarias	573
+2013	1	Paraná	La Cumbre	8032
+2013	1	Paraná	La Falda	426
+2013	1	Paraná	La Paz	16572
+2013	1	Paraná	La Picada	284
+2013	1	Paraná	Mar del Plata	8540
+2013	1	Paraná	María Grande	53490
+2013	1	Paraná	Piedras Blancas	69560
+2013	1	Paraná	Puerto Iguazú	580
+2013	1	Paraná	Rosario	6440
+2013	1	Paraná	San Nicolás de los Arroyos	290
+2013	1	Paraná	Santa Fe	58655
+2013	1	Paraná	Santa Rosa de Calamuchita	292
+2013	1	Paraná	Sauce Montrull	2632
+2013	1	Paraná	Victoria	224
+2013	1	Paraná	Villa Urquiza	11516
+2013	2	Concordia	Chajarí	568
+2013	2	Concordia	Chivilcoy	309
+2013	2	Concordia	Ciudad de Buenos Aires	2616
+2013	2	Concordia	Colón	11672
+2013	2	Concordia	Concordia	279
+2013	2	Concordia	Corrientes	1577
+2013	2	Concordia	Crespo	1205
+2013	2	Concordia	Federación	4292
+2013	2	Concordia	Federal	2448
+2013	2	Concordia	Gualeguaychú	447
+2013	2	Concordia	Maciá	4168
+2013	2	Concordia	Mendoza, Ciudad de	157
+2013	2	Concordia	Nogoyá	19452
+2013	2	Concordia	Nueva Escocia	434
+2013	2	Concordia	Rosario	560
+2013	2	Concordia	Río Gallegos	156
+2013	2	Concordia	San Salvador	2656
+2013	2	Concordia	San Vicente	588
+2013	2	Concordia	Villa Carlos Paz	2483
+2013	2	Concordia	Villaguay	278
+2013	2	Paraná	Aldea San Francisco	882
+2013	2	Paraná	Cerrito	544
+2013	2	Paraná	Ciudad de Buenos Aires	8774
+2013	2	Paraná	Colón	2406
+2013	2	Paraná	Concepción del Uruguay	318
+2013	2	Paraná	Crespo	862
+2013	2	Paraná	Diamante	1252
+2013	2	Paraná	Don Cristóbal	8060
+2013	2	Paraná	Esperanza	1084
+2013	2	Paraná	General Ramírez	886
+2013	2	Paraná	Guatimozín	1084
+2013	2	Paraná	La Paz	2553
+2013	2	Paraná	Libertador San Martín	634
+2013	2	Paraná	María Grande	48452
+2013	2	Paraná	Mendoza, Ciudad de	272
+2013	2	Paraná	Pueblo Brugo	426
+2013	2	Paraná	Puerto Iguazú	314
+2013	2	Paraná	Rosario	3748
+2013	2	Paraná	Rosario del Tala	1679
+2013	2	Paraná	Río Gallegos	634
+2013	2	Paraná	San Salvador de Jujuy	7954
+2013	2	Paraná	Santa Fe	21834
+2013	2	Paraná	Santa María de Punilla	584
+2013	2	Paraná	Santiago del Estero	314
+2013	2	Paraná	Santo Tomé	5792
+2013	2	Paraná	Tigre	558
+2013	2	Paraná	Uspallata	794
+2013	2	Paraná	Viale	290
+2013	2	Paraná	Victoria	11844
+2013	2	Paraná	Villa Cura Brochero	292
+2013	2	Paraná	Villa Urquiza	14289
+2013	3	Concordia	Alta Gracia	287
+2013	3	Concordia	Apóstoles	11583
+2013	3	Concordia	Bahía Blanca	868
+2013	3	Concordia	Chajarí	31050
+2013	3	Concordia	Ciudad de Buenos Aires	35102
+2013	3	Concordia	Colón	13834
+2013	3	Concordia	Curuzú Cuatiá	316
+2013	3	Concordia	Federación	39791
+2013	3	Concordia	Gualeguaychú	289
+2013	3	Concordia	La Plata	288
+2013	3	Concordia	Merlo	287
+2013	3	Concordia	Moreno	632
+2013	3	Concordia	Puerto Madryn	4306
+2013	3	Concordia	Salta	1023
+2013	3	Concordia	Santa Fe	576
+2013	3	Concordia	Simoca	385
+2013	3	Concordia	Villaguay	5185
+2013	3	Concordia	Wilde	372
+2013	3	Paraná	Aldea María Luisa	15655
+2013	3	Paraná	Bialet Massé	848
+2013	3	Paraná	Ciudad de Buenos Aires	16285
+2013	3	Paraná	Colonia Avellaneda	4384
+2013	3	Paraná	Colón	20198
+2013	3	Paraná	Crespo	1562
+2013	3	Paraná	Diamante	7490
+2013	3	Paraná	Esperanza	1554
+2013	3	Paraná	Federación	3648
+2013	3	Paraná	General Galarza	2808
+2013	3	Paraná	Gobernador Crespo	4212
+2013	3	Paraná	Gualeguay	2508
+2013	3	Paraná	Gualeguaychú	825
+2013	3	Paraná	Hernandarias	21774
+2013	3	Paraná	La Falda	536
+2013	3	Paraná	La Picada	548
+2013	3	Paraná	María Grande	1072
+2013	3	Paraná	Mendoza, Ciudad de	615
+2013	3	Paraná	Merlo	552
+2013	3	Paraná	Nogoyá	6346
+2013	3	Paraná	Paraná	21673
+2013	3	Paraná	Piedras Blancas	552
+2013	3	Paraná	Rosario	18415
+2013	3	Paraná	San Carlos de Bariloche	846
+2013	3	Paraná	San Salvador de Jujuy	552
+2013	3	Paraná	Santa Fe	46300
+2013	3	Paraná	Sauce de Luna	278
+2013	3	Paraná	Viale	1442
+2013	3	Paraná	Victoria	3272
+2013	3	Paraná	Villa Carlos Paz	275
+2013	3	Paraná	Villa Urquiza	20655
+2013	4	Concordia	Cañada Honda	365
+2013	4	Concordia	Chajarí	54336
+2013	4	Concordia	Ciudad de Buenos Aires	8282
+2013	4	Concordia	Colón	12382
+2013	4	Concordia	Federación	12382
+2013	4	Concordia	Mar del Plata	4688
+2013	4	Concordia	Rosario	556
+2013	4	Concordia	San Jaime de la Frontera	10580
+2013	4	Concordia	San Salvador	13590
+2013	4	Concordia	Santa Fe	5646
+2013	4	Concordia	Santa Rosa de Calamuchita	311
+2013	4	Concordia	Victoria	1112
+2013	4	Concordia	Villaguay	2657
+2013	4	Paraná	Aldea Valle María	32060
+2013	4	Paraná	Cañada de Gómez	542
+2013	4	Paraná	Cerrito	2000
+2013	4	Paraná	Ciudad de Buenos Aires	17677
+2013	4	Paraná	Colón	4617
+2013	4	Paraná	Concordia	1106
+2013	4	Paraná	Crespo	4075
+2013	4	Paraná	Córdoba	13706
+2013	4	Paraná	Diamante	5725
+2013	4	Paraná	Esperanza	550
+2013	4	Paraná	Federación	888
+2013	4	Paraná	General Galarza	2052
+2013	4	Paraná	General Pacheco	550
+2013	4	Paraná	General Racedo	291
+2013	4	Paraná	Gualeguay	2689
+2013	4	Paraná	Gualeguaychú	3560
+2013	4	Paraná	Hernandarias	550
+2013	4	Paraná	La Paz	1373
+2013	4	Paraná	Larroque	542
+2013	4	Paraná	Libertador San Martín	1386
+2013	4	Paraná	Mar del Plata	271
+2013	4	Paraná	María Grande	552
+2013	4	Paraná	Mendoza, Ciudad de	291
+2013	4	Paraná	Paraná	4305
+2013	4	Paraná	Piedras Blancas	550
+2013	4	Paraná	Rincón Potrero	867
+2013	4	Paraná	Rosario	271
+2013	4	Paraná	San Marcial	16668
+2013	4	Paraná	San Miguel de Tucumán	276
+2013	4	Paraná	Santa Elena	271
+2013	4	Paraná	Santa Fe	18827
+2013	4	Paraná	Santa Rosa	275
+2013	4	Paraná	Seguí	542
+2013	4	Paraná	Viale	572
+2013	4	Paraná	Victoria	1931
+2013	4	Paraná	Villa Allende	1092
+2013	4	Paraná	Villa Carlos Paz	2178
+2013	4	Paraná	Villa Urquiza	1670
+2013	4	Paraná	Villa de María	1100
+2013	4	Paraná	Villaguay	19574
+2014	1	Concordia	Achiras	574
+2014	1	Concordia	Bahía Blanca	297
+2014	1	Concordia	Chajarí	15222
+2014	1	Concordia	Ciudad de Buenos Aires	590
+2014	1	Concordia	Colón	891
+2014	1	Concordia	Concepción del Uruguay	30996
+2014	1	Concordia	Curuzú Cuatiá	15018
+2014	1	Concordia	Federación	54291
+2014	1	Concordia	Los Charrúas	1643
+2014	1	Concordia	Mar del Plata	1885
+2014	1	Concordia	Monte Caseros	11480
+2014	1	Concordia	Paraná	924
+2014	1	Concordia	Rosario	1174
+2014	1	Concordia	San Salvador	592
+2014	1	Concordia	Santa Ana	966
+2014	1	Concordia	Santa Fe	296
+2014	1	Concordia	Santa Rosa	942
+2014	1	Concordia	Villa Carlos Paz	1089
+2014	1	Concordia	Villa General Manuel Belgrano	861
+2014	1	Concordia	Villaguay	1077
+2014	1	Paraná	Aldea Valle María	10714
+2014	1	Paraná	Cerrito	3768
+2014	1	Paraná	Ciudad de Buenos Aires	1091
+2014	1	Paraná	Colón	1384
+2014	1	Paraná	Concordia	19224
+2014	1	Paraná	Cosquín	550
+2014	1	Paraná	Diamante	1897
+2014	1	Paraná	Esperanza	550
+2014	1	Paraná	Federación	542
+2014	1	Paraná	Gobernador Crespo	3258
+2014	1	Paraná	Granadero Baigorria	542
+2014	1	Paraná	Gualeguaychú	10266
+2014	1	Paraná	Helvecia	1059
+2014	1	Paraná	La Falda	542
+2014	1	Paraná	La Picada	4980
+2014	1	Paraná	Mar del Plata	26966
+2014	1	Paraná	María Grande	21048
+2014	1	Paraná	Nogoyá	2726
+2014	1	Paraná	Oro Verde	1632
+2014	1	Paraná	Paraná	550
+2014	1	Paraná	Punta Mogotes	542
+2014	1	Paraná	Rosario	5780
+2014	1	Paraná	Rosario del Tala	544
+2014	1	Paraná	Río Grande	276
+2014	1	Paraná	San Carlos de Bariloche	542
+2014	1	Paraná	San Francisco	542
+2014	1	Paraná	San José de Feliciano	277
+2014	1	Paraná	San Salvador	1146
+2014	1	Paraná	Santa Fe	23564
+2014	1	Paraná	Santa Rosa	275
+2014	1	Paraná	Vicente López	278
+2014	1	Paraná	Victoria	4420
+2014	1	Paraná	Villa Carlos Paz	1367
+2014	1	Paraná	Villa General Belgrano	542
+2014	1	Paraná	Villa Urquiza	42710
+2014	1	Paraná	Villaguay	731
+2014	2	Concordia	Chajarí	556
+2014	2	Concordia	Concepción del Uruguay	29652
+2014	2	Concordia	Córdoba	556
+2014	2	Concordia	Federación	30090
+2014	2	Concordia	Martínez	2656
+2014	2	Concordia	Nueva Escocia	10371
+2014	2	Concordia	Paraná	4625
+2014	2	Concordia	Puerto Yeruá	20332
+2014	2	Concordia	Rosario	1710
+2014	2	Concordia	San Juan	279
+2014	2	Paraná	Basavilbaso	5772
+2014	2	Paraná	Cerrito	2066
+2014	2	Paraná	Ciudad de Buenos Aires	6478
+2014	2	Paraná	Concordia	828
+2014	2	Paraná	Crespo	1334
+2014	2	Paraná	Córdoba	11360
+2014	2	Paraná	Diamante	14746
+2014	2	Paraná	Franck	861
+2014	2	Paraná	Gualeguaychú	16290
+2014	2	Paraná	La Paz	1808
+2014	2	Paraná	La Picada	2208
+2014	2	Paraná	Libertador San Martín	554
+2014	2	Paraná	Mar del Plata	552
+2014	2	Paraná	María Grande	1176
+2014	2	Paraná	Oro Verde	2466
+2014	2	Paraná	Resistencia	298
+2014	2	Paraná	Rosario	12690
+2014	2	Paraná	Río Cuarto	1104
+2014	2	Paraná	San José del Rincón	562
+2014	2	Paraná	San Luis	287
+2014	2	Paraná	Santa Elena	3306
+2014	2	Paraná	Santa Fe	3133
+2014	2	Paraná	Santiago del Estero	490
+2014	2	Paraná	Santo Tomé	668
+2014	2	Paraná	Viale	1306
+2014	2	Paraná	Victoria	2820
+2014	2	Paraná	Villa Carlos Paz	840
+2014	2	Paraná	Villa Urquiza	1092
+2014	2	Paraná	Villaguay	1104
+2014	3	Concordia	Capilla del Señor	318
+2014	3	Concordia	Chajarí	9039
+2014	3	Concordia	Ciudad de Buenos Aires	91793
+2014	3	Concordia	Colón	6058
+2014	3	Concordia	Corrientes	6740
+2014	3	Concordia	Córdoba	556
+2014	3	Concordia	Federación	3758
+2014	3	Concordia	Olivos	280
+2014	3	Concordia	Posadas (Municipio de Posadas)	278
+2014	3	Concordia	Puerto Yeruá	888
+2014	3	Concordia	Rosario	1465
+2014	3	Concordia	Río Tercero	4866
+2014	3	Concordia	San Rafael (Ciudad)	556
+2014	3	Concordia	San Salvador	556
+2014	3	Concordia	Sauce de Luna	834
+2014	3	Concordia	Ushuaia	278
+2014	3	Concordia	Villa Carlos Paz	558
+2014	3	Concordia	Villaguay	6058
+2014	3	Paraná	Cerrito	2168
+2014	3	Paraná	Chajarí	1632
+2014	3	Paraná	Ciudad de Buenos Aires	35814
+2014	3	Paraná	Concepción del Uruguay	5160
+2014	3	Paraná	Concordia	8328
+2014	3	Paraná	Crespo	22657
+2014	3	Paraná	Córdoba	13703
+2014	3	Paraná	Diamante	4364
+2014	3	Paraná	Esperanza	550
+2014	3	Paraná	Esquel	1084
+2014	3	Paraná	Franck	9802
+2014	3	Paraná	General Racedo	419
+2014	3	Paraná	Gualeguaychú	2580
+2014	3	Paraná	La Paz	816
+2014	3	Paraná	La Picada	3272
+2014	3	Paraná	Libertador San Martín	1542
+2014	3	Paraná	Lucas González	4368
+2014	3	Paraná	María Grande	2620
+2014	3	Paraná	Mendoza, Ciudad de	5096
+2014	3	Paraná	Rosario	6401
+2014	3	Paraná	Salta	1635
+2014	3	Paraná	San Luis	418
+2014	3	Paraná	San Miguel de Tucumán	1084
+2014	3	Paraná	San Salvador de Jujuy	337
+2014	3	Paraná	Santa Clara del Mar	552
+2014	3	Paraná	Santa Fe	100604
+2014	3	Paraná	Termas de Río Hondo	542
+2014	3	Paraná	Viale	6834
+2014	3	Paraná	Victoria	1395
+2014	3	Paraná	Villa Urquiza	8748
+2014	4	Concordia	Chajarí	28562
+2014	4	Concordia	Ciudad de Buenos Aires	1223
+2014	4	Concordia	Colón	41986
+2014	4	Concordia	Concepción del Uruguay	1392
+2014	4	Concordia	Concordia	556
+2014	4	Concordia	Federación	7768
+2014	4	Concordia	General Campos	2228
+2014	4	Concordia	Gualeguaychú	2267
+2014	4	Concordia	Mar del Plata	10284
+2014	4	Concordia	Paraná	1803
+2014	4	Concordia	Posadas (Municipio de Posadas)	281
+2014	4	Concordia	Puerto Iguazú	282
+2014	4	Concordia	Puerto Yeruá	556
+2014	4	Concordia	Salto Grande	1248
+2014	4	Concordia	San Pedro	1955
+2014	4	Paraná	Aldea Valle María	7250
+2014	4	Paraná	Belén de Escobar	272
+2014	4	Paraná	Carreras	903
+2014	4	Paraná	Cerrito	542
+2014	4	Paraná	Ciudad de Buenos Aires	3027
+2014	4	Paraná	Colón	542
+2014	4	Paraná	Concepción del Uruguay	4988
+2014	4	Paraná	Córdoba	4376
+2014	4	Paraná	Diamante	4096
+2014	4	Paraná	Federación	408
+2014	4	Paraná	Gualeguay	746
+2014	4	Paraná	Gualeguaychú	2494
+2014	4	Paraná	Hasenkamp	588
+2014	4	Paraná	Hernandarias	1338
+2014	4	Paraná	Islas	5550
+2014	4	Paraná	La Paz	13602
+2014	4	Paraná	La Picada	13776
+2014	4	Paraná	La Rioja	542
+2014	4	Paraná	Maciá	5814
+2014	4	Paraná	María Grande	568
+2014	4	Paraná	Mendoza, Ciudad de	2814
+2014	4	Paraná	Mina Clavero	2318
+2014	4	Paraná	Paraná	588
+2014	4	Paraná	Posadas (Municipio de Posadas)	409
+2014	4	Paraná	Puerto Iguazú	542
+2014	4	Paraná	Rosario	3722
+2014	4	Paraná	Salta	272
+2014	4	Paraná	San Francisco	550
+2014	4	Paraná	San José de Feliciano	840
+2014	4	Paraná	Santa Fe	10504
+2014	4	Paraná	Viale	5784
+2014	4	Paraná	Victoria	844
+2014	4	Paraná	Villa Carlos Paz	813
+2014	4	Paraná	Villa Urquiza	1656
+2014	4	Paraná	Villaguay	1128
+2015	1	Concordia	Basavilbaso	10288
+2015	1	Concordia	Bragado	2073
+2015	1	Concordia	Chajarí	20276
+2015	1	Concordia	Ciudad de Buenos Aires	632
+2015	1	Concordia	Colonia Ayuí	1668
+2015	1	Concordia	Colón	1966
+2015	1	Concordia	Concepción del Uruguay	15432
+2015	1	Concordia	Federación	21704
+2015	1	Concordia	Guaymallén	15849
+2015	1	Concordia	Larroque	2232
+2015	1	Concordia	Los Charrúas	15432
+2015	1	Concordia	Mar del Plata	278
+2015	1	Concordia	Nueva Escocia	13764
+2015	1	Concordia	Paraná	12629
+2015	1	Concordia	Puerto Iguazú	837
+2015	1	Concordia	Rosario	7464
+2015	1	Concordia	San Antonio de Areco	560
+2015	1	Concordia	San Bernardo	3259
+2015	1	Concordia	Santa Ana	2952
+2015	1	Concordia	Santa Fe	1574
+2015	1	Concordia	Santa Teresita	844
+2015	1	Concordia	Villa Carlos Paz	800
+2015	1	Paraná	Aldea Valle María	24740
+2015	1	Paraná	Cariló	570
+2015	1	Paraná	Carreras	1068
+2015	1	Paraná	Chajarí	572
+2015	1	Paraná	Ciudad de Buenos Aires	4880
+2015	1	Paraná	Colón	7025
+2015	1	Paraná	Concordia	9249
+2015	1	Paraná	Córdoba	1280
+2015	1	Paraná	Formosa	570
+2015	1	Paraná	Gualeguaychú	276
+2015	1	Paraná	La Caldera	5126
+2015	1	Paraná	La Paz	22365
+2015	1	Paraná	La Picada	22724
+2015	1	Paraná	Maciá	1700
+2015	1	Paraná	Mar del Plata	271
+2015	1	Paraná	Oro Verde	550
+2015	1	Paraná	Paraná	4480
+2015	1	Paraná	Paso de la Laguna	550
+2015	1	Paraná	Salta	7685
+2015	1	Paraná	San José	570
+2015	1	Paraná	San José de Feliciano	337
+2015	1	Paraná	Santa Clara del Mar	1140
+2015	1	Paraná	Santa Fe	22864
+2015	1	Paraná	Santa Teresita	825
+2015	1	Paraná	Sierras	570
+2015	1	Paraná	Tigre	550
+2015	1	Paraná	Villa Carlos Paz	840
+2015	1	Paraná	Villa Elisa	951
+2015	1	Paraná	Villa Gesell	552
+2015	1	Paraná	Villa Urquiza	39361
+2015	2	Concordia	Colonia Ayuí	1776
+2015	2	Concordia	Colón	13305
+2015	2	Concordia	Concepción del Uruguay	7627
+2015	2	Concordia	Córdoba	278
+2015	2	Concordia	Federación	17718
+2015	2	Concordia	Posadas (Municipio de Posadas)	508
+2015	2	Concordia	Salto Grande	2604
+2015	2	Concordia	San Salvador	1598
+2015	2	Concordia	Tartagal	1080
+2015	2	Paraná	Campana	552
+2015	2	Paraná	Cayastá	3512
+2015	2	Paraná	Cerrito	518
+2015	2	Paraná	Ciudad de Buenos Aires	5804
+2015	2	Paraná	Colonia Avigdor	542
+2015	2	Paraná	Concepción del Uruguay	802
+2015	2	Paraná	Córdoba	5729
+2015	2	Paraná	Diamante	303
+2015	2	Paraná	General Alvear	792
+2015	2	Paraná	Gualeguay	1078
+2015	2	Paraná	Hernandarias	39380
+2015	2	Paraná	Las Leñas	518
+2015	2	Paraná	Libertador San Martín	1066
+2015	2	Paraná	Mar del Plata	1901
+2015	2	Paraná	María Grande	2487
+2015	2	Paraná	Posadas (Municipio de Posadas)	259
+2015	2	Paraná	Rosario	275
+2015	2	Paraná	Rosario de la Frontera	526
+2015	2	Paraná	San Genaro	789
+2015	2	Paraná	San Marcial	1042
+2015	2	Paraná	San Miguel	271
+2015	2	Paraná	San Salvador de Jujuy	566
+2015	2	Paraná	Santa Fe	6181
+2015	2	Paraná	Santo Tomé	3512
+2015	2	Paraná	Sauce Viejo	3512
+2015	2	Paraná	Victoria	22935
+2015	2	Paraná	Villa Carlos Paz	1457
+2015	3	Concordia	Cañadón Seco	508
+2015	3	Concordia	Chajarí	5888
+2015	3	Concordia	Ciudad de Buenos Aires	514
+2015	3	Concordia	Colón	2126
+2015	3	Concordia	Corrientes	9976
+2015	3	Concordia	Federación	624
+2015	3	Concordia	Ituzaingó	297
+2015	3	Concordia	Libertador San Martín	13988
+2015	3	Concordia	Paraná	278
+2015	3	Concordia	Puerto Iguazú	558
+2015	3	Concordia	Puerto Yeruá	13422
+2015	3	Concordia	Puíggari	512
+2015	3	Concordia	Resistencia	7460
+2015	3	Concordia	San Justo	20825
+2015	3	Concordia	San Miguel de Tucumán	546
+2015	3	Concordia	Tandil	278
+2015	3	Concordia	Termas de Río Hondo	508
+2015	3	Concordia	Villaguay	644
+2015	3	Paraná	Aldea Valle María	18524
+2015	3	Paraná	Caucete	1280
+2015	3	Paraná	Cerrito	2334
+2015	3	Paraná	Ciudad de Buenos Aires	12437
+2015	3	Paraná	Concordia	1231
+2015	3	Paraná	Corrientes	2801
+2015	3	Paraná	Crespo	592
+2015	3	Paraná	Córdoba	1100
+2015	3	Paraná	Diamante	318
+2015	3	Paraná	Federación	7070
+2015	3	Paraná	General Galarza	752
+2015	3	Paraná	Godoy Cruz (Ciudad)	20800
+2015	3	Paraná	Hernandarias	317
+2015	3	Paraná	Hernández	532
+2015	3	Paraná	Hurlingham	3494
+2015	3	Paraná	La Picada	17122
+2015	3	Paraná	Lucas González	3140
+2015	3	Paraná	Luján	532
+2015	3	Paraná	María Grande	550
+2015	3	Paraná	Mendoza, Ciudad de	10630
+2015	3	Paraná	Puerto Iguazú	1136
+2015	3	Paraná	Puerto Madryn	277
+2015	3	Paraná	Rosario	5756
+2015	3	Paraná	Río Cuarto	15600
+2015	3	Paraná	Salta	1072
+2015	3	Paraná	San José del Rincón	6768
+2015	3	Paraná	San Miguel de Tucumán	532
+2015	3	Paraná	San Rafael (Ciudad)	4600
+2015	3	Paraná	Santa Clara del Mar	534
+2015	3	Paraná	Santa Fe	58577
+2015	3	Paraná	Santo Tomé	552
+2015	3	Paraná	Sierra de los Padres	552
+2015	3	Paraná	Tafí del Valle	367
+2015	3	Paraná	Tanti	1218
+2015	3	Paraná	Victoria	289
+2015	3	Paraná	Villa Carlos Paz	267
+2015	3	Paraná	Villa Urquiza	11809
+2015	4	Concordia	Ciudad de Buenos Aires	24151
+2015	4	Concordia	Concepción del Uruguay	1188
+2015	4	Concordia	Córdoba	339
+2015	4	Concordia	Federación	18985
+2015	4	Concordia	Federal	2020
+2015	4	Concordia	Mar del Plata	296
+2015	4	Concordia	Mercedes	2352
+2015	4	Concordia	Paraná	939
+2015	4	Concordia	Puerto Iguazú	1010
+2015	4	Concordia	Puerto Madryn	594
+2015	4	Concordia	Salta	592
+2015	4	Concordia	Santa Fe	1764
+2015	4	Paraná	Cariló	1136
+2015	4	Paraná	Cerrito	10456
+2015	4	Paraná	Chajarí	4256
+2015	4	Paraná	Ciudad de Buenos Aires	2438
+2015	4	Paraná	Colón	1029
+2015	4	Paraná	Concepción del Uruguay	17505
+2015	4	Paraná	Concordia	3396
+2015	4	Paraná	Esperanza	1136
+2015	4	Paraná	General Galarza	1726
+2015	4	Paraná	Gualeguay	11816
+2015	4	Paraná	Hocker	4256
+2015	4	Paraná	La Cumbre	5467
+2015	4	Paraná	La Paz	426
+2015	4	Paraná	La Picada	1152
+2015	4	Paraná	Las Cuevas	1604
+2015	4	Paraná	María Grande	35268
+2015	4	Paraná	Mercedes	1029
+2015	4	Paraná	Merlo	1132
+2015	4	Paraná	Nogoyá	1420
+2015	4	Paraná	Paraná	4780
+2015	4	Paraná	Paso de la Laguna	284
+2015	4	Paraná	Piedras Blancas	347
+2015	4	Paraná	Pueblo General San Martín	527
+2015	4	Paraná	Rosario	1765
+2015	4	Paraná	Santa Elena	10524
+2015	4	Paraná	Seguí	570
+2015	4	Paraná	Viale	1172
+2015	4	Paraná	Viedma	560
+2015	4	Paraná	Villa Carlos Paz	1346
+2015	4	Paraná	Villa Cura Brochero	466
+2015	4	Paraná	Villa Urquiza	23078
+2015	4	Paraná	Villaguay	1433
+2016	1	Concordia	Basavilbaso	48224
+2016	1	Concordia	Berazategui	306
+2016	1	Concordia	Cañuelas	6028
+2016	1	Concordia	Ciudad de Buenos Aires	1148
+2016	1	Concordia	Corrientes	7407
+2016	1	Concordia	Federación	8058
+2016	1	Concordia	Gualeguaychú	612
+2016	1	Concordia	Mar del Plata	287
+2016	1	Concordia	Merlo	6028
+2016	1	Concordia	Paraná	10680
+2016	1	Concordia	Puerto Yeruá	29550
+2016	1	Concordia	Rosario del Tala	6027
+2016	1	Concordia	Salta	589
+2016	1	Concordia	San Salvador	287
+2016	1	Paraná	Aldea Brasilera	17648
+2016	1	Paraná	Cerrito	552
+2016	1	Paraná	Ciudad de Buenos Aires	1103
+2016	1	Paraná	Concordia	552
+2016	1	Paraná	Cosquín	828
+2016	1	Paraná	Crespo	1100
+2016	1	Paraná	Diamante	4540
+2016	1	Paraná	Esperanza	1100
+2016	1	Paraná	Federación	36855
+2016	1	Paraná	General Ramírez	1100
+2016	1	Paraná	Gualeguaychú	3347
+2016	1	Paraná	Hasenkamp	276
+2016	1	Paraná	La Picada	1104
+2016	1	Paraná	Mar del Plata	29196
+2016	1	Paraná	María Grande	8065
+2016	1	Paraná	Monte Hermoso	34704
+2016	1	Paraná	Pinamar	1710
+2016	1	Paraná	Puerto Iguazú	1514
+2016	1	Paraná	Rosario	1124
+2016	1	Paraná	Río Grande	314
+2016	1	Paraná	Salta	550
+2016	1	Paraná	San Benito	552
+2016	1	Paraná	San Carlos de Bariloche	1375
+2016	1	Paraná	San José de Feliciano	276
+2016	1	Paraná	Santa Elena	11570
+2016	1	Paraná	Santa Fe	6626
+2016	1	Paraná	Seguí	550
+2016	1	Paraná	Victoria	828
+2016	1	Paraná	Villa Carlos Paz	825
+2016	1	Paraná	Villa Elisa	1100
+2016	1	Paraná	Villa Urquiza	16940
+2016	1	Paraná	Villaguay	2328
+2016	2	Concordia	Colonia Yeruá	20664
+2016	2	Concordia	Colón	31724
+2016	2	Concordia	Córdoba	958
+2016	2	Concordia	Ingeniero Maschwitz	1728
+2016	2	Concordia	La Paz	556
+2016	2	Concordia	Merlo	401
+2016	2	Concordia	Paraná	47012
+2016	2	Concordia	Puerto Yeruá	26489
+2016	2	Concordia	Salta	879
+2016	2	Concordia	San Martín de los Andes	2631
+2016	2	Concordia	San Salvador	279
+2016	2	Concordia	Tartagal	306
+2016	2	Concordia	Villaguay	5964
+2016	2	Paraná	Aranguren	3647
+2016	2	Paraná	Boulogne Sur Mer	708
+2016	2	Paraná	Cerrito	16308
+2016	2	Paraná	Ciudad de Buenos Aires	7498
+2016	2	Paraná	Colón	804
+2016	2	Paraná	Crespo	3892
+2016	2	Paraná	Córdoba	4834
+2016	2	Paraná	Diamante	2430
+2016	2	Paraná	Federación	3828
+2016	2	Paraná	La Falda	262
+2016	2	Paraná	La Paz	271
+2016	2	Paraná	Libertador San Martín	542
+2016	2	Paraná	Lomas de Zamora	3758
+2016	2	Paraná	Mendoza, Ciudad de	262
+2016	2	Paraná	Munro	1618
+2016	2	Paraná	Rafaela	132
+2016	2	Paraná	Rosario	944
+2016	2	Paraná	Rosario de la Frontera	264
+2016	2	Paraná	San Antonio	272
+2016	2	Paraná	San Marcial	530
+2016	2	Paraná	Santa Elena	271
+2016	2	Paraná	Santa Fe	3673
+2016	2	Paraná	Valeria del Mar	268
+2016	2	Paraná	Victoria	393
+2016	2	Paraná	Villa Carlos Paz	354
+2016	2	Paraná	Villa General Belgrano	264
+2016	2	Paraná	Villa Urquiza	528
+2016	3	Concordia	Chajarí	13556
+2016	3	Concordia	Ciudad de Buenos Aires	44586
+2016	3	Concordia	Colonia Yeruá	20574
+2016	3	Concordia	Colón	19440
+2016	3	Concordia	Córdoba	270
+2016	3	Concordia	Federación	64690
+2016	3	Concordia	La Plata	356
+2016	3	Concordia	Paraná	10273
+2016	3	Concordia	Posadas (Municipio de Posadas)	1130
+2016	3	Concordia	Rosario	890
+2016	3	Concordia	Río Ceballos	586
+2016	3	Paraná	Aldea Valle María	528
+2016	3	Paraná	Cerrito	28734
+2016	3	Paraná	Ciudad de Buenos Aires	26763
+2016	3	Paraná	Clorinda	286
+2016	3	Paraná	Colonia Ensayo	280
+2016	3	Paraná	Colón	30966
+2016	3	Paraná	Concepción del Uruguay	136
+2016	3	Paraná	Concordia	811
+2016	3	Paraná	Diamante	9602
+2016	3	Paraná	El Calafate	262
+2016	3	Paraná	Esperanza	270
+2016	3	Paraná	Federación	1188
+2016	3	Paraná	La Paz	10169
+2016	3	Paraná	La Picada	62832
+2016	3	Paraná	Paraje La Virgen	5578
+2016	3	Paraná	Paraná	262
+2016	3	Paraná	Pilar	497
+2016	3	Paraná	Pueblo Brugo	1076
+2016	3	Paraná	Puerto Iguazú	815
+2016	3	Paraná	Rosario	557
+2016	3	Paraná	Rosario del Tala	34413
+2016	3	Paraná	Río Tercero	783
+2016	3	Paraná	Salta	1693
+2016	3	Paraná	San Benito	9758
+2016	3	Paraná	San Fernando del Valle de Catamarca	411
+2016	3	Paraná	San Javier	5021
+2016	3	Paraná	San Miguel de Tucumán	266
+2016	3	Paraná	Santa Fe	69289
+2016	3	Paraná	Santiago del Estero	131
+2016	3	Paraná	Termas de Río Hondo	1578
+2016	3	Paraná	Valle Hermoso	320
+2016	3	Paraná	Viamonte	1582
+2016	3	Paraná	Viedma	295
+2016	3	Paraná	Villa Urquiza	10720
+2016	4	Concordia	Colón	3949
+2016	4	Concordia	Federación	3048
+2016	4	Concordia	Mercedes	9898
+2016	4	Concordia	Nueva Escocia	330
+2016	4	Concordia	Paraná	495
+2016	4	Concordia	Puerto Yeruá	34858
+2016	4	Concordia	Rosario	330
+2016	4	Concordia	Salta	2722
+2016	4	Concordia	San Carlos de Bariloche	262
+2016	4	Concordia	Ushuaia	262
+2016	4	Paraná	Aldea Valle María	939
+2016	4	Paraná	Ciudad de Buenos Aires	1321
+2016	4	Paraná	Concepción del Uruguay	202
+2016	4	Paraná	Concordia	788
+2016	4	Paraná	Córdoba	952
+2016	4	Paraná	Diamante	366
+2016	4	Paraná	General Ramírez	639
+2016	4	Paraná	Gualeguay	272
+2016	4	Paraná	La Paz	1066
+2016	4	Paraná	La Picada	274
+2016	4	Paraná	Mar del Plata	272
+2016	4	Paraná	María Grande	786
+2016	4	Paraná	Oro Verde	808
+2016	4	Paraná	Paraje La Virgen	8330
+2016	4	Paraná	Paso de la Laguna	136
+2016	4	Paraná	Potrero de Garay	536
+2016	4	Paraná	Resistencia	5460
+2016	4	Paraná	Rosario	1504
+2016	4	Paraná	Salta	264
+2016	4	Paraná	San Benito	1084
+2016	4	Paraná	San Carlos de Bariloche	274
+2016	4	Paraná	San Miguel de Tucumán	14440
+2016	4	Paraná	Santa Fe	951
+2016	4	Paraná	Santa Rosa de Calamuchita	393
+2016	4	Paraná	Sauce Montrull	1088
+2016	4	Paraná	Sauce Viejo	27045
+2016	4	Paraná	Sauce de Luna	131
+2016	4	Paraná	Termas de Río Hondo	272
+2016	4	Paraná	Valle Hermoso	272
+2016	4	Paraná	Viale	691
+2016	4	Paraná	Victoria	802
+2016	4	Paraná	Villa Urquiza	542
+2017	1	Concordia	Colón	15996
+2017	1	Concordia	Corrientes	6494
+2017	1	Concordia	Córdoba	3288
+2017	1	Concordia	Gualeguaychú	276
+2017	1	Concordia	Puerto Yeruá	6290
+2017	1	Concordia	Salto	13128
+2017	1	Concordia	San Carlos de Bariloche	2572
+2017	1	Paraná	Aldea Valle María	3126
+2017	1	Paraná	Calamuchita	496
+2017	1	Paraná	Ciudad de Buenos Aires	4403
+2017	1	Paraná	Colón	1334
+2017	1	Paraná	Crespo	558
+2017	1	Paraná	Córdoba	4287
+2017	1	Paraná	Diamante	5040
+2017	1	Paraná	Federación	1482
+2017	1	Paraná	Federal	474
+2017	1	Paraná	General Galarza	1308
+2017	1	Paraná	Gualeguaychú	5859
+2017	1	Paraná	Hernandarias	318
+2017	1	Paraná	La Picada	1016
+2017	1	Paraná	Mendoza, Ciudad de	278
+2017	1	Paraná	Merlo	14787
+2017	1	Paraná	Nono	173
+2017	1	Paraná	Paraná	1352
+2017	1	Paraná	Pilar	211
+2017	1	Paraná	Posadas (Municipio de Posadas)	15372
+2017	1	Paraná	Pueblo Brugo	1308
+2017	1	Paraná	Puerto Madryn	130
+2017	1	Paraná	Puerto Yeruá	504
+2017	1	Paraná	Rosario	530
+2017	1	Paraná	Rosario del Tala	333
+2017	1	Paraná	Salta	730
+2017	1	Paraná	San Carlos Centro	211
+2017	1	Paraná	San Carlos de Bariloche	4929
+2017	1	Paraná	San Luis	260
+2017	1	Paraná	Santa Rosa de Calamuchita	1132
+2017	1	Paraná	Santo Tomé	8612
+2017	1	Paraná	Sauce Montrull	2920
+2017	1	Paraná	Valeria del Mar	905
+2017	1	Paraná	Victoria	334
+2017	1	Paraná	Villa Carlos Paz	2626
+2017	1	Paraná	Villa General Belgrano	890
+2017	1	Paraná	Villa Gesell	262
+2017	1	Paraná	Villa Urquiza	1100
+2017	1	Paraná	Villaguay	913
+2017	2	Concordia	Alvear	4072
+2017	2	Concordia	Capilla del Monte	2291
+2017	2	Concordia	Chajarí	4797
+2017	2	Concordia	Ciudad de Buenos Aires	1694
+2017	2	Concordia	Colón	3904
+2017	2	Concordia	Concepción del Uruguay	2291
+2017	2	Concordia	Federación	850
+2017	2	Concordia	La Paz	420
+2017	2	Concordia	Los Charrúas	3904
+2017	2	Concordia	Paraná	3708
+2017	2	Concordia	Posadas (Municipio de Posadas)	4072
+2017	2	Concordia	Puerto Yeruá	800
+2017	2	Concordia	Resistencia	330
+2017	2	Concordia	Rosario	1602
+2017	2	Concordia	Salta	744
+2017	2	Concordia	Salto	592
+2017	2	Concordia	San Salvador de Jujuy	25409
+2017	2	Concordia	Santa Fe	705
+2017	2	Concordia	Villaguay	4797
+2017	2	Paraná	Aldea Valle María	2937
+2017	2	Paraná	Carpintería	9608
+2017	2	Paraná	Chapadmalal	347
+2017	2	Paraná	Chilecito	230
+2017	2	Paraná	Ciudad de Buenos Aires	2800
+2017	2	Paraná	Concordia	200
+2017	2	Paraná	Corrientes	230
+2017	2	Paraná	Crespo	640
+2017	2	Paraná	Córdoba	408
+2017	2	Paraná	Diamante	6554
+2017	2	Paraná	Federal	25408
+2017	2	Paraná	La Paz	11550
+2017	2	Paraná	Laguna Paiva	9424
+2017	2	Paraná	Libertador San Martín	1348
+2017	2	Paraná	Maciá	16924
+2017	2	Paraná	María Grande	12816
+2017	2	Paraná	Mendoza, Ciudad de	2574
+2017	2	Paraná	Oberá	2238
+2017	2	Paraná	Paraná	22044
+2017	2	Paraná	Posadas (Municipio de Posadas)	264
+2017	2	Paraná	Puerto Iguazú	1628
+2017	2	Paraná	Puerto Yeruá	528
+2017	2	Paraná	Rosario	494
+2017	2	Paraná	Río Cuarto	264
+2017	2	Paraná	Santa Elena	2403
+2017	2	Paraná	Santa Fe	4280
+2017	2	Paraná	Seguí	3073
+2017	2	Paraná	Villa Urquiza	4559
+2017	2	Paraná	Villaguay	232
+2017	3	Concordia	Bella Vista	780
+2017	3	Concordia	Ciudad de Buenos Aires	7903
+2017	3	Concordia	Concepción del Uruguay	1265
+2017	3	Concordia	Corrientes	2841
+2017	3	Concordia	El Soberbio	460
+2017	3	Concordia	Federación	21330
+2017	3	Concordia	General Campos	4030
+2017	3	Concordia	Paraná	17204
+2017	3	Concordia	Posadas (Municipio de Posadas)	2772
+2017	3	Concordia	Puerto Yeruá	14475
+2017	3	Concordia	Quebrada	1649
+2017	3	Concordia	Rosario	6306
+2017	3	Concordia	Salta	316
+2017	3	Concordia	San Carlos de Bariloche	1802
+2017	3	Concordia	San Jaime de la Frontera	1401
+2017	3	Concordia	San Pedro	2749
+2017	3	Concordia	Santa Fe	2379
+2017	3	Concordia	Tigre	408
+2017	3	Concordia	Ubajay	37212
+2017	3	Paraná	Basavilbaso	16595
+2017	3	Paraná	Canals	4564
+2017	3	Paraná	Ciudad de Buenos Aires	5909
+2017	3	Paraná	Colonia Avellaneda	894
+2017	3	Paraná	Colón	6238
+2017	3	Paraná	Concepción del Uruguay	11931
+2017	3	Paraná	Concordia	366
+2017	3	Paraná	Cosquín	471
+2017	3	Paraná	Córdoba	402
+2017	3	Paraná	Diamante	54774
+2017	3	Paraná	Esquina	19752
+2017	3	Paraná	Esteros del Iberá	381
+2017	3	Paraná	General Alvear	1065
+2017	3	Paraná	Gobernador Crespo	2577
+2017	3	Paraná	Gualeguay	520
+2017	3	Paraná	José C. Paz	11691
+2017	3	Paraná	La Paz	3599
+2017	3	Paraná	La Picada	1064
+2017	3	Paraná	La Rioja	369
+2017	3	Paraná	Mar del Plata	2859
+2017	3	Paraná	María Grande	1749
+2017	3	Paraná	Merlo	2050
+2017	3	Paraná	Nogoyá	1910
+2017	3	Paraná	Piedras Blancas	2904
+2017	3	Paraná	Potrero de los Funes	3440
+2017	3	Paraná	Rosario	4499
+2017	3	Paraná	Salta	16293
+2017	3	Paraná	San Miguel de Tucumán	1833
+2017	3	Paraná	San Rafael (Ciudad)	1749
+2017	3	Paraná	Santa Elena	753
+2017	3	Paraná	Santa Fe	67971
+2017	3	Paraná	Viale	29868
+2017	3	Paraná	Victoria	2198
+2017	3	Paraná	Villa Carlos Paz	19629
+2017	3	Paraná	Villa Fontana	616
+2017	3	Paraná	Villa Urquiza	10308
+2017	3	Paraná	Villaguay	20802
+2017	4	Concordia	Chajarí	564
+2017	4	Concordia	Ciudad de Buenos Aires	3336
+2017	4	Concordia	Colón	2951
+2017	4	Concordia	Concepción del Uruguay	1347
+2017	4	Concordia	Concordia	5036
+2017	4	Concordia	Durazno	34356
+2017	4	Concordia	Federación	24796
+2017	4	Concordia	Federal	8976
+2017	4	Concordia	Gualeguaychú	264
+2017	4	Concordia	Martínez	1864
+2017	4	Concordia	Paraná	38741
+2017	4	Concordia	Puerto Iguazú	528
+2017	4	Concordia	Puerto Yeruá	4860
+2017	4	Concordia	Rosario	410
+2017	4	Concordia	San Salvador	2084
+2017	4	Concordia	Santa Fe	8624
+2017	4	Concordia	Villa Elisa	1046
+2017	4	Concordia	Villaguay	21508
+2017	4	Paraná	Aldea Valle María	1889
+2017	4	Paraná	Ciudad de Buenos Aires	1677
+2017	4	Paraná	Colón	368
+2017	4	Paraná	Concordia	174
+2017	4	Paraná	Córdoba	946
+2017	4	Paraná	Diamante	1206
+2017	4	Paraná	Esquina	654
+2017	4	Paraná	Federación	3502
+2017	4	Paraná	General Ramírez	1694
+2017	4	Paraná	Gualeguaychú	7139
+2017	4	Paraná	Mar del Plata	2945
+2017	4	Paraná	María Grande	928
+2017	4	Paraná	Mendoza, Ciudad de	262
+2017	4	Paraná	Merlo	300
+2017	4	Paraná	Miramar	526
+2017	4	Paraná	Oro Verde	2413
+2017	4	Paraná	Pilar	804
+2017	4	Paraná	Punilla	12908
+2017	4	Paraná	Rosario	5506
+2017	4	Paraná	Salta	318
+2017	4	Paraná	San Benito	4436
+2017	4	Paraná	San Martín de las Escobas	2236
+2017	4	Paraná	Santa Fe	28665
+2017	4	Paraná	Santa Rosa de Río Primero	352
+2017	4	Paraná	Sauce de Luna	1976
+2017	4	Paraná	Tigre	6367
+2017	4	Paraná	Valle Hermoso	2413
+2017	4	Paraná	Viale	6590
+2017	4	Paraná	Victoria	11482
+2017	4	Paraná	Villa Carlos Paz	283
+2017	4	Paraná	Villa Urquiza	3069
+2017	4	Paraná	Villaguay	570
+2018	1	Concordia	Chajarí	1482
+2018	1	Concordia	Ciudad de Buenos Aires	2327
+2018	1	Concordia	Colón	5624
+2018	1	Concordia	Córdoba	4310
+2018	1	Concordia	Federación	556
+2018	1	Concordia	Federal	517
+2018	1	Concordia	La Paz	2410
+2018	1	Concordia	Mina Clavero	10460
+2018	1	Concordia	Nueva Escocia	11765
+2018	1	Concordia	Paraná	10460
+2018	1	Concordia	Pedernal	11765
+2018	1	Concordia	Puerto Yeruá	15233
+2018	1	Concordia	San Carlos de Bariloche	528
+2018	1	Concordia	San José	13764
+2018	1	Concordia	San Pedro	1704
+2018	1	Concordia	Santa Clara del Mar	1156
+2018	1	Concordia	Santa Elena	23530
+2018	1	Concordia	Santa Rosa de Calamuchita	29701
+2018	1	Concordia	Victoria	362
+2018	1	Concordia	Villa Carlos Paz	282
+2018	1	Paraná	Alpa Corral	832
+2018	1	Paraná	Alvear	969
+2018	1	Paraná	Bovril	842
+2018	1	Paraná	Cafayate	6856
+2018	1	Paraná	Cerrito	350
+2018	1	Paraná	Ciudad de Buenos Aires	1285
+2018	1	Paraná	Claromecó	1668
+2018	1	Paraná	Colón	346
+2018	1	Paraná	Crespo	6557
+2018	1	Paraná	Córdoba	5278
+2018	1	Paraná	Esperanza	3762
+2018	1	Paraná	Esquiú	390
+2018	1	Paraná	General Ramírez	727
+2018	1	Paraná	La Calera	302
+2018	1	Paraná	La Paz	568
+2018	1	Paraná	Mar de las Pampas	258
+2018	1	Paraná	Mar del Plata	764
+2018	1	Paraná	María Grande	74997
+2018	1	Paraná	Mendoza, Ciudad de	128
+2018	1	Paraná	Monte Hermoso	3566
+2018	1	Paraná	Potrero de los Funes	1380
+2018	1	Paraná	Ramos Mejía	858
+2018	1	Paraná	Rosario	2574
+2018	1	Paraná	San Carlos de Bariloche	1276
+2018	1	Paraná	San Clemente del Tuyú	346
+2018	1	Paraná	San José	346
+2018	1	Paraná	San Nicolás de los Arroyos	6445
+2018	1	Paraná	Santa Fe	139
+2018	1	Paraná	Sauce de Luna	1400
+2018	1	Paraná	Ushuaia	270
+2018	1	Paraná	Victoria	3566
+2018	1	Paraná	Villa Carlos Paz	1061
+2018	1	Paraná	Villa Elisa	2979
+2018	1	Paraná	Villa Urquiza	3615
+2018	2	Concordia	Bell Ville	4004
+2018	2	Concordia	Chajarí	1969
+2018	2	Concordia	Ciudad de Buenos Aires	2216
+2018	2	Concordia	Colonia Yeruá	4263
+2018	2	Concordia	Concepción del Uruguay	231
+2018	2	Concordia	Concordia	8498
+2018	2	Concordia	Córdoba	4594
+2018	2	Concordia	Federación	10826
+2018	2	Concordia	Las Flores	855
+2018	2	Concordia	Los Charrúas	67203
+2018	2	Concordia	Paraná	4004
+2018	2	Concordia	Puerto Yeruá	1267
+2018	2	Concordia	Rosario	280
+2018	2	Concordia	Salta	288
+2018	2	Concordia	San Carlos de Bariloche	4590
+2018	2	Concordia	Tanti	732
+2018	2	Concordia	Villaguay	1730
+2018	2	Paraná	Bovril	8154
+2018	2	Paraná	Cayastá	10044
+2018	2	Paraná	Chajarí	2708
+2018	2	Paraná	Ciudad de Buenos Aires	322
+2018	2	Paraná	Colón	318
+2018	2	Paraná	Concepción del Uruguay	4664
+2018	2	Paraná	Córdoba	1135
+2018	2	Paraná	Diamante	17583
+2018	2	Paraná	General Alvear	3592
+2018	2	Paraná	General Ramírez	16368
+2018	2	Paraná	La Falda	316
+2018	2	Paraná	Mar del Plata	280
+2018	2	Paraná	María Grande	1854
+2018	2	Paraná	Mendoza, Ciudad de	318
+2018	2	Paraná	Nogoyá	274
+2018	2	Paraná	Rafaela	1043
+2018	2	Paraná	Resistencia	2265
+2018	2	Paraná	Rosario	4501
+2018	2	Paraná	San Carlos de Bariloche	1405
+2018	2	Paraná	San Jaime de la Frontera	1135
+2018	2	Paraná	Santa Elena	447
+2018	2	Paraná	Santa Fe	2061
+2018	2	Paraná	Santo Domingo	776
+2018	2	Paraná	Termas de Río Hondo	355
+2018	2	Paraná	Tres Cerritos	3292
+2018	2	Paraná	Viale	8816
+2018	2	Paraná	Villa Carlos Paz	3975
+2018	2	Paraná	Villa Urquiza	1696
+2018	2	Paraná	Villaguay	358
+2018	3	Concordia	Adrogué	525
+2018	3	Concordia	Chajarí	2267
+2018	3	Concordia	Ciudad de Buenos Aires	1236
+2018	3	Concordia	Concordia	6048
+2018	3	Concordia	Córdoba	423
+2018	3	Concordia	Federación	4448
+2018	3	Concordia	La Paz	282
+2018	3	Concordia	La Plata	282
+2018	3	Concordia	Merlo	406
+2018	3	Concordia	Paraná	2077
+2018	3	Concordia	Posadas (Municipio de Posadas)	382
+2018	3	Concordia	Puerto Yeruá	1128
+2018	3	Concordia	Rosario	1096
+2018	3	Concordia	Salta	328
+2018	3	Concordia	San José	28038
+2018	3	Concordia	San Nicolás de los Arroyos	662
+2018	3	Paraná	Aldea María Luisa	2242
+2018	3	Paraná	Aldea Valle María	2247
+2018	3	Paraná	Bella Vista	1092
+2018	3	Paraná	Ciudad de Buenos Aires	7097
+2018	3	Paraná	Colón	3512
+2018	3	Paraná	Concepción del Uruguay	792
+2018	3	Paraná	Concordia	4276
+2018	3	Paraná	Córdoba	5705
+2018	3	Paraná	Diamante	474
+2018	3	Paraná	Esperanza	262
+2018	3	Paraná	Esquina	1886
+2018	3	Paraná	General Ramírez	768
+2018	3	Paraná	Goya	2082
+2018	3	Paraná	Gualeguay	7857
+2018	3	Paraná	Gualeguaychú	5234
+2018	3	Paraná	Hasenkamp	1640
+2018	3	Paraná	Hernandarias	1503
+2018	3	Paraná	La Paz	13954
+2018	3	Paraná	Libertador San Martín	1419
+2018	3	Paraná	Mar del Plata	1117
+2018	3	Paraná	María Grande	1120
+2018	3	Paraná	Nogoyá	472
+2018	3	Paraná	Paraje La Virgen	2760
+2018	3	Paraná	Paraná	44580
+2018	3	Paraná	Potrero de los Funes	346
+2018	3	Paraná	Puerto Iguazú	1063
+2018	3	Paraná	Rosario	5361
+2018	3	Paraná	Rosario del Tala	498
+2018	3	Paraná	Salta	2216
+2018	3	Paraná	San Cristóbal	129
+2018	3	Paraná	San Justo	6004
+2018	3	Paraná	Santa Fe	19457
+2018	3	Paraná	Tandil	456
+2018	3	Paraná	Viale	5012
+2018	3	Paraná	Victoria	2333
+2018	3	Paraná	Villa Carlos Paz	939
+2018	3	Paraná	Villa Elisa	4208
+2018	3	Paraná	Villa Urquiza	2496
+2018	4	Concordia	Ciudad de Buenos Aires	4412
+2018	4	Concordia	Colonia Yeruá	8958
+2018	4	Concordia	Concepción del Uruguay	540
+2018	4	Concordia	Concordia	2136
+2018	4	Concordia	Federación	1310
+2018	4	Concordia	Gualeguay	2068
+2018	4	Concordia	La Plata	572
+2018	4	Concordia	Mendoza, Ciudad de	970
+2018	4	Concordia	Paraná	597
+2018	4	Concordia	Paso de los Libres	534
+2018	4	Concordia	Pilar	620
+2018	4	Concordia	Puerto Yeruá	1112
+2018	4	Concordia	Puíggari	2068
+2018	4	Concordia	Rosario	620
+2018	4	Concordia	Santa Fe	282
+2018	4	Concordia	Villa Carlos Paz	324
+2018	4	Concordia	Villa Elisa	278
+2018	4	Concordia	Villa Zorraquín	304
+2018	4	Paraná	Avellaneda	6034
+2018	4	Paraná	Carcarañá	1107
+2018	4	Paraná	Ciudad de Buenos Aires	27017
+2018	4	Paraná	Colonia Libertad	2476
+2018	4	Paraná	Córdoba	250
+2018	4	Paraná	Diamante	2568
+2018	4	Paraná	Don Torcuato	1496
+2018	4	Paraná	Esperanza	250
+2018	4	Paraná	General Ramírez	750
+2018	4	Paraná	La Paz	9574
+2018	4	Paraná	Mar del Plata	3716
+2018	4	Paraná	María Grande	1695
+2018	4	Paraná	Nogoyá	250
+2018	4	Paraná	Oro Verde	364
+2018	4	Paraná	Paraná	26280
+2018	4	Paraná	Pueblo Brugo	598
+2018	4	Paraná	Rincón Potrero	513
+2018	4	Paraná	Rosario	7835
+2018	4	Paraná	Salta	450
+2018	4	Paraná	San Salvador de Jujuy	9066
+2018	4	Paraná	Santa Fe	9586
+2018	4	Paraná	Viale	622
+2018	4	Paraná	Victoria	6329
+2018	4	Paraná	Villa Urquiza	13028
+2019	1	Concordia	Chajarí	1084
+2019	1	Concordia	Colón	4550
+2019	1	Concordia	Corrientes	1011
+2019	1	Concordia	Federación	2292
+2019	1	Concordia	Gualeguay	2195
+2019	1	Concordia	Mendoza, Ciudad de	760
+2019	1	Concordia	Miramar	724
+2019	1	Concordia	Paso de la Patria	442
+2019	1	Concordia	Puerto Yeruá	5904
+2019	1	Concordia	San Bernardo	2274
+2019	1	Paraná	Aldea Valle María	308
+2019	1	Paraná	Cariló	1504
+2019	1	Paraná	Cerrito	1154
+2019	1	Paraná	Ciudad de Buenos Aires	1933
+2019	1	Paraná	Claromecó	3447
+2019	1	Paraná	Colón	539
+2019	1	Paraná	Concepción del Uruguay	14788
+2019	1	Paraná	Concordia	3222
+2019	1	Paraná	Crespo	2226
+2019	1	Paraná	Córdoba	16852
+2019	1	Paraná	Diamante	6740
+2019	1	Paraná	El Colorado	3474
+2019	1	Paraná	Federación	12868
+2019	1	Paraná	General Galarza	2058
+2019	1	Paraná	General Racedo	837
+2019	1	Paraná	General Ramírez	171
+2019	1	Paraná	Gualeguaychú	402
+2019	1	Paraná	Juan José Castelli	154
+2019	1	Paraná	Liebig	1494
+2019	1	Paraná	Mar Azul	877
+2019	1	Paraná	María Grande	280
+2019	1	Paraná	Merlo	278
+2019	1	Paraná	Oro Verde	414
+2019	1	Paraná	Pueblo Brugo	740
+2019	1	Paraná	Pueblo General Belgrano	2406
+2019	1	Paraná	Punilla	1116
+2019	1	Paraná	Rosario	1770
+2019	1	Paraná	Río Cuarto	483
+2019	1	Paraná	San Benito	659
+2019	1	Paraná	San Bernardo	765
+2019	1	Paraná	Santa Fe	286
+2019	1	Paraná	Ushuaia	280
+2019	1	Paraná	Villa Carlos Paz	2741
+2019	1	Paraná	Villa Cura Brochero	513
+2019	1	Paraná	Villa Elisa	3474
+2019	1	Paraná	Villa General Belgrano	539
+2019	1	Paraná	Villa Gesell	282
+2019	1	Paraná	Villa Urquiza	26554
+2019	1	Paraná	Villaguay	552
+2019	2	Concordia	Ciudad de Buenos Aires	143
+2019	2	Concordia	Colonia Yeruá	772
+2019	2	Concordia	Colón	464
+2019	2	Concordia	Federación	860
+2019	2	Concordia	Gualeguaychú	1456
+2019	2	Concordia	Ingeniero Maschwitz	296
+2019	2	Concordia	La Rioja	464
+2019	2	Concordia	Los Charrúas	27722
+2019	2	Concordia	Mendoza, Ciudad de	568
+2019	2	Concordia	Paraná	25941
+2019	2	Concordia	Puerto Yeruá	1120
+2019	2	Concordia	Rosario	292
+2019	2	Concordia	Salta	296
+2019	2	Concordia	San Martín de los Andes	2405
+2019	2	Concordia	Santa Fe	8291
+2019	2	Concordia	Villa Elisa	464
+2019	2	Concordia	Villa Zorraquín	5062
+2019	2	Paraná	Cerrito	2821
+2019	2	Paraná	Ciudad de Buenos Aires	1875
+2019	2	Paraná	Colón	2016
+2019	2	Paraná	Concepción del Uruguay	13616
+2019	2	Paraná	Gualeguay	10734
+2019	2	Paraná	Hernandarias	268
+2019	2	Paraná	Huerta Grande	944
+2019	2	Paraná	La Falda	3400
+2019	2	Paraná	Mendoza, Ciudad de	1974
+2019	2	Paraná	Miramar	864
+2019	2	Paraná	Paraná	2425
+2019	2	Paraná	Piedras Blancas	288
+2019	2	Paraná	Puerto Iguazú	1326
+2019	2	Paraná	Rafaela	18618
+2019	2	Paraná	Rincón Potrero	2020
+2019	2	Paraná	Rosario	4439
+2019	2	Paraná	Salta	3184
+2019	2	Paraná	San Benito	1176
+2019	2	Paraná	San Rafael (Ciudad)	1111
+2019	2	Paraná	Santa Fe	5681
+2019	2	Paraná	Tabossi	6040
+2019	2	Paraná	Viale	4170
+2019	2	Paraná	Villa Urquiza	26278
+2019	3	Concordia	Chajarí	15115
+2019	3	Concordia	Ciudad de Buenos Aires	3226
+2019	3	Concordia	Colonia Ayuí	1336
+2019	3	Concordia	Colón	324
+2019	3	Concordia	Federación	4662
+2019	3	Concordia	Gualeguaychú	1280
+2019	3	Concordia	Martínez	318
+2019	3	Concordia	Paraná	23435
+2019	3	Concordia	Puerto Yeruá	3214
+2019	3	Concordia	Salta	1874
+2019	3	Concordia	San Fernando del Valle de Catamarca	324
+2019	3	Concordia	Santa Fe	2810
+2019	3	Concordia	Viedma	324
+2019	3	Concordia	Villa Elisa	324
+2019	3	Paraná	Cerrito	8771
+2019	3	Paraná	Ciudad de Buenos Aires	1515
+2019	3	Paraná	Colón	2504
+2019	3	Paraná	Concepción del Uruguay	15160
+2019	3	Paraná	Córdoba	3017
+2019	3	Paraná	Diamante	6826
+2019	3	Paraná	Esquina	3672
+2019	3	Paraná	Federación	1248
+2019	3	Paraná	General Ramírez	346
+2019	3	Paraná	Gualeguay	1875
+2019	3	Paraná	Jesús María	184
+2019	3	Paraná	Junín	640
+2019	3	Paraná	Luján	1431
+2019	3	Paraná	María Grande	9180
+2019	3	Paraná	Oro Verde	2540
+2019	3	Paraná	Pueblo General San Martín	1303
+2019	3	Paraná	Puerto Madryn	1520
+2019	3	Paraná	Rosario	9347
+2019	3	Paraná	Salta	3739
+2019	3	Paraná	San Carlos de Bariloche	1148
+2019	3	Paraná	San Salvador	1040
+2019	3	Paraná	Santa Elena	1012
+2019	3	Paraná	Santa Fe	6863
+2019	3	Paraná	Sauce Viejo	1276
+2019	3	Paraná	Seguí	3658
+2019	3	Paraná	Tabossi	9408
+2019	3	Paraná	Viale	17684
+2019	3	Paraná	Victoria	11704
+2019	3	Paraná	Villa Carlos Paz	6421
+2019	3	Paraná	Villa General Belgrano	2428
+2019	3	Paraná	Villa Urquiza	1010
+2019	4	Concordia	Ciudad de Buenos Aires	8915
+2019	4	Concordia	Colonia Ayuí	688
+2019	4	Concordia	Colón	4394
+2019	4	Concordia	Federación	10125
+2019	4	Concordia	La Plata	3377
+2019	4	Concordia	Libertador San Martín	426
+2019	4	Concordia	Los Charrúas	4598
+2019	4	Concordia	Nueva Escocia	1359
+2019	4	Concordia	Paraná	350
+2019	4	Concordia	Puerto Yeruá	5408
+2019	4	Concordia	San Carlos de Bariloche	861
+2019	4	Paraná	Aldea Valle María	11226
+2019	4	Paraná	Cerrito	920
+2019	4	Paraná	Ciudad de Buenos Aires	7054
+2019	4	Paraná	Concordia	780
+2019	4	Paraná	Córdoba	7262
+2019	4	Paraná	Diamante	336
+2019	4	Paraná	Esperanza	410
+2019	4	Paraná	Esquel	1140
+2019	4	Paraná	General Ramírez	336
+2019	4	Paraná	Larroque	4632
+2019	4	Paraná	Mar del Plata	1006
+2019	4	Paraná	Mendoza, Ciudad de	2829
+2019	4	Paraná	Merlo	472
+2019	4	Paraná	Miramar	336
+2019	4	Paraná	Nogoyá	6360
+2019	4	Paraná	Oro Verde	1896
+2019	4	Paraná	Paraná	624
+2019	4	Paraná	Pueblo Brugo	948
+2019	4	Paraná	Puerto Iguazú	3032
+2019	4	Paraná	Reconquista	1257
+2019	4	Paraná	Rosario	5158
+2019	4	Paraná	San Carlos de Bariloche	444
+2019	4	Paraná	San Nicolás de los Arroyos	1006
+2019	4	Paraná	San Salvador	920
+2019	4	Paraná	Santa Fe	24171
+2019	4	Paraná	Seguí	2514
+2019	4	Paraná	Victoria	2021
+2019	4	Paraná	Villa Carlos Paz	801
+2019	4	Paraná	Villa General Belgrano	880
+2019	4	Paraná	Villa Urquiza	30471
+2019	4	Paraná	Zárate	676
+2020	1	Concordia	Avellaneda	2898
+2020	1	Concordia	Chajarí	280
+2020	1	Concordia	Ciudad de Buenos Aires	2436
+2020	1	Concordia	Colón	9670
+2020	1	Concordia	Concepción del Uruguay	834
+2020	1	Concordia	Córdoba	2561
+2020	1	Concordia	Federación	21700
+2020	1	Concordia	Libertador San Martín	690
+2020	1	Concordia	Mar del Plata	8108
+2020	1	Concordia	Mendoza, Ciudad de	834
+2020	1	Concordia	Mercedes	558
+2020	1	Concordia	Paraná	285
+2020	1	Concordia	Santa Fe	618
+2020	1	Concordia	Villa Carlos Paz	562
+2020	1	Paraná	Aldea Valle María	1776
+2020	1	Paraná	Cerrito	262
+2020	1	Paraná	Ciudad de Buenos Aires	19349
+2020	1	Paraná	Conscripto Bernardi	1454
+2020	1	Paraná	Diamante	4591
+2020	1	Paraná	General Ramírez	8304
+2020	1	Paraná	Gualeguaychú	1650
+2020	1	Paraná	Lujan de Cuyo (Ciudad)	1872
+2020	1	Paraná	Mar del Plata	546
+2020	1	Paraná	Oro Verde	1584
+2020	1	Paraná	Pinamar	5868
+2020	1	Paraná	Rosario	7094
+2020	1	Paraná	San Carlos de Bariloche	1593
+2020	1	Paraná	San Martín de los Andes	518
+2020	1	Paraná	San Salvador de Jujuy	650
+2020	1	Paraná	Santa Ana	6055
+2020	1	Paraná	Santa Fe	1060
+2020	1	Paraná	Sauce Montrull	526
+2020	1	Paraná	Viale	2126
+2020	1	Paraná	Victoria	381
+2020	1	Paraná	Villa Carlos Paz	15748
+2020	1	Paraná	Villa Urquiza	7279
+2020	1	Paraná	Villa de María	3560
+2020	1	Paraná	Yapeyú	524
+2020	2	Concordia	Chajarí	6762
+2020	2	Concordia	Concordia	6570
+2020	2	Concordia	Curuzú Cuatiá	357
+2020	2	Concordia	Gualeguaychú	1424
+2020	2	Concordia	Los Charrúas	20274
+2020	2	Concordia	Puerto Yeruá	712
+2020	2	Paraná	Ciudad de Buenos Aires	905
+2020	2	Paraná	Diamante	580
+2020	2	Paraná	Merlo	4602
+2020	2	Paraná	Sauce de Luna	5499
+2020	3	Concordia	Clodomiro Ledesma	658
+2020	3	Concordia	Gualeguaychú	1080
+2020	3	Concordia	La Criolla	316
+2020	3	Paraná	Armstrong	1282
+2020	3	Paraná	Córdoba	730
+2020	3	Paraná	Paraná	14512
+2020	3	Paraná	Quehué	1136
+2020	3	Paraná	Rosario	752
+2020	3	Paraná	San Benito	448
+2020	3	Paraná	Viale	6168
+2020	4	Concordia	Concordia	1629
+2020	4	Concordia	Córdoba	834
+2020	4	Concordia	La Criolla	870
+2020	4	Concordia	La Paz	2112
+2020	4	Concordia	Martínez	534
+2020	4	Concordia	Pinamar	2214
+2020	4	Concordia	Puerto Yeruá	6647
+2020	4	Paraná	Cerrito	1346
+2020	4	Paraná	Chajarí	988
+2020	4	Paraná	Ciudad de Buenos Aires	494
+2020	4	Paraná	Colonia Avellaneda	888
+2020	4	Paraná	Crespo	856
+2020	4	Paraná	Córdoba	488
+2020	4	Paraná	Diamante	775
+2020	4	Paraná	Federación	530
+2020	4	Paraná	General Galarza	490
+2020	4	Paraná	Larroque	738
+2020	4	Paraná	Libertador San Martín	24496
+2020	4	Paraná	Marcos Juárez	3231
+2020	4	Paraná	María Grande	4278
+2020	4	Paraná	Paraná	7976
+2020	4	Paraná	Quehué	1080
+2020	4	Paraná	Rosario	7322
+2020	4	Paraná	Santa Fe	3458
+2020	4	Paraná	Sauce Montrull	247
+2020	4	Paraná	Viale	5252
+2020	4	Paraná	Victoria	488
+2020	4	Paraná	Villa General Belgrano	488
+2020	4	Paraná	Villa Urquiza	14591
+2020	4	Paraná	Villaguay	732
+2020	4	Paraná	Zárate	490
+2021	1	Concordia	Colón	729
+2021	1	Concordia	Concepción del Uruguay	8898
+2021	1	Concordia	Concordia	27280
+2021	1	Concordia	Ituzaingó	3160
+2021	1	Concordia	José León Suárez	600
+2021	1	Concordia	Puerto Yeruá	2075
+2021	1	Concordia	San Bernardo	807
+2021	1	Concordia	San Marcos Sierra	481
+2021	1	Concordia	San Rafael (Ciudad)	242
+2021	1	Concordia	Villaguay	250
+2021	1	Paraná	Aldea Brasilera	762
+2021	1	Paraná	Cerrito	771
+2021	1	Paraná	Ciudad de Buenos Aires	381
+2021	1	Paraná	Claromecó	1209
+2021	1	Paraná	Concepción del Uruguay	906
+2021	1	Paraná	Crespo	2178
+2021	1	Paraná	Córdoba	142
+2021	1	Paraná	Diamante	4488
+2021	1	Paraná	Esperanza	7604
+2021	1	Paraná	Federación	4299
+2021	1	Paraná	Larroque	268
+2021	1	Paraná	Molino Doll	1710
+2021	1	Paraná	Paraná	2865
+2021	1	Paraná	Pueblo General Belgrano	1095
+2021	1	Paraná	Pueblo General San Martín	1775
+2021	1	Paraná	Puerto Iguazú	2586
+2021	1	Paraná	Rosario	1746
+2021	1	Paraná	San Carlos de Bariloche	395
+2021	1	Paraná	San Martín de los Andes	264
+2021	1	Paraná	Santa Fe	12265
+2021	1	Paraná	Tanti	256
+2021	1	Paraná	Tigre	1710
+2021	1	Paraná	Victoria	2013
+2021	1	Paraná	Villa Gesell	790
+2021	1	Paraná	Villa Urquiza	61130
+2021	1	Paraná	Zárate	258
+2021	2	Concordia	Chajarí	652
+2021	2	Concordia	Ciudad de Buenos Aires	244
+2021	2	Concordia	Colón	1776
+2021	2	Concordia	Concordia	474
+2021	2	Concordia	Córdoba	3155
+2021	2	Concordia	Federación	174
+2021	2	Concordia	Gualeguaychú	440
+2021	2	Concordia	Rosario	999
+2021	2	Concordia	Villaguay	348
+2021	2	Paraná	Aldea Brasilera	3392
+2021	2	Paraná	Aldea Valle María	548
+2021	2	Paraná	Bella Vista	1236
+2021	2	Paraná	Cabalango	228
+2021	2	Paraná	Cerrito	3968
+2021	2	Paraná	Ciudad de Buenos Aires	113
+2021	2	Paraná	Colonia Avellaneda	5749
+2021	2	Paraná	Crespo	856
+2021	2	Paraná	Córdoba	3968
+2021	2	Paraná	Diamante	1792
+2021	2	Paraná	Esperanza	23550
+2021	2	Paraná	Federación	342
+2021	2	Paraná	General Ramírez	23550
+2021	2	Paraná	La Paz	524
+2021	2	Paraná	María Grande	448
+2021	2	Paraná	Nogoyá	23550
+2021	2	Paraná	Oro Verde	638
+2021	2	Paraná	Paraná	12183
+2021	2	Paraná	Rosario	1546
+2021	2	Paraná	San Gustavo	160
+2021	2	Paraná	San Isidro	266
+2021	2	Paraná	San José de Feliciano	250
+2021	2	Paraná	Santa Fe	10187
+2021	2	Paraná	Seguí	1010
+2021	2	Paraná	Villa General Belgrano	638
+2021	3	Concordia	Ciudad de Buenos Aires	242
+2021	3	Concordia	Colonia Ayuí	349
+2021	3	Concordia	Colón	6351
+2021	3	Concordia	Concordia	524
+2021	3	Concordia	Córdoba	2227
+2021	3	Concordia	Federal	287
+2021	3	Concordia	Gualeguaychú	327
+2021	3	Concordia	Libertador San Martín	227
+2021	3	Concordia	Lomas de Zamora	144
+2021	3	Concordia	Mar del Plata	15152
+2021	3	Concordia	Paraná	208
+2021	3	Concordia	Puerto Madryn	349
+2021	3	Concordia	Puerto Yeruá	210
+2021	3	Concordia	Rosario	1192
+2021	3	Concordia	San Nicolás de los Arroyos	15576
+2021	3	Concordia	San Pedro	13309
+2021	3	Concordia	Ushuaia	6230
+2021	3	Paraná	Aldea Brasilera	773
+2021	3	Paraná	Cerrito	314
+2021	3	Paraná	Ciudad de Buenos Aires	700
+2021	3	Paraná	Concepción del Uruguay	4041
+2021	3	Paraná	Diamante	2060
+2021	3	Paraná	Esperanza	24550
+2021	3	Paraná	Federación	8080
+2021	3	Paraná	General Alvear	666
+2021	3	Paraná	General Ramírez	24550
+2021	3	Paraná	Gualeguaychú	4925
+2021	3	Paraná	Lobos	226
+2021	3	Paraná	Miramar	3976
+2021	3	Paraná	Nogoyá	24550
+2021	3	Paraná	Oro Verde	472
+2021	3	Paraná	Paraná	7192
+2021	3	Paraná	Salta	16084
+2021	3	Paraná	San Fernando del Valle de Catamarca	768
+2021	3	Paraná	San Salvador de Jujuy	220
+2021	3	Paraná	Santa Fe	55867
+2021	3	Paraná	Santa Rosa de Calamuchita	314
+2021	3	Paraná	Termas de Río Hondo	290
+2021	3	Paraná	Venado Tuerto	220
+2021	3	Paraná	Vicente López	459
+2021	3	Paraná	Victoria	222
+2021	3	Paraná	Villa Elisa	570
+2021	3	Paraná	Villa General Belgrano	24550
+2021	4	Concordia	Chajarí	636
+2021	4	Concordia	Ciudad de Buenos Aires	486
+2021	4	Concordia	Colonia Ayuí	37626
+2021	4	Concordia	Colón	254
+2021	4	Concordia	El Calafate	211
+2021	4	Concordia	Federación	9457
+2021	4	Concordia	Federal	360
+2021	4	Concordia	Lomas de Zamora	127
+2021	4	Concordia	Paraná	18512
+2021	4	Concordia	Pinamar	7904
+2021	4	Concordia	Rosario	254
+2021	4	Concordia	Salta	2351
+2021	4	Concordia	San Carlos de Bariloche	4220
+2021	4	Paraná	Aldea Valle María	19504
+2021	4	Paraná	Cerrito	14331
+2021	4	Paraná	Ciudad de Buenos Aires	2836
+2021	4	Paraná	Colón	760
+2021	4	Paraná	Córdoba	37973
+2021	4	Paraná	Federación	3830
+2021	4	Paraná	Gualeguaychú	254
+2021	4	Paraná	Hasenkamp	528
+2021	4	Paraná	La Rioja	760
+2021	4	Paraná	Mar del Plata	254
+2021	4	Paraná	María Grande	15587
+2021	4	Paraná	Mendoza, Ciudad de	375
+2021	4	Paraná	Miramar	998
+2021	4	Paraná	Nogoyá	1373
+2021	4	Paraná	Oro Verde	580
+2021	4	Paraná	Paraná	589
+2021	4	Paraná	Rosario	758
+2021	4	Paraná	Salta	254
+2021	4	Paraná	San Carlos de Bariloche	635
+2021	4	Paraná	San Justo	264
+2021	4	Paraná	San Luis	28692
+2021	4	Paraná	San Pedro	528
+2021	4	Paraná	Santa Fe	36523
+2021	4	Paraná	Santo Tomé	390
+2021	4	Paraná	Sauce Viejo	595
+2021	4	Paraná	Termas de Río Hondo	9046
+2021	4	Paraná	Viale	23945
+2021	4	Paraná	Victoria	254
+2021	4	Paraná	Villa Urquiza	437
+2022	1	Concordia	Allen	130
+2022	1	Concordia	Chajarí	17608
+2022	1	Concordia	Chapadmalal	846
+2022	1	Concordia	Ciudad de Buenos Aires	97
+2022	1	Concordia	Colón	2998
+2022	1	Concordia	Concepción del Uruguay	508
+2022	1	Concordia	Concordia	37710
+2022	1	Concordia	Eldorado	2818
+2022	1	Concordia	Federación	1905
+2022	1	Concordia	Gualeguay	661
+2022	1	Concordia	Gualeguaychú	1497
+2022	1	Concordia	Leandro N. Alem	254
+2022	1	Concordia	Los Charrúas	661
+2022	1	Concordia	Mendoza, Ciudad de	224
+2022	1	Concordia	Nueva Escocia	29947
+2022	1	Concordia	Paraná	381
+2022	1	Concordia	Puerto Iguazú	7180
+2022	1	Concordia	Rosario	254
+2022	1	Concordia	Salta	2172
+2022	1	Concordia	San Carlos de Bariloche	3653
+2022	1	Concordia	San Rafael (Ciudad)	230
+2022	1	Paraná	Aldea Brasilera	214
+2022	1	Paraná	Alvear	1906
+2022	1	Paraná	Capilla del Monte	353
+2022	1	Paraná	Cerrito	790
+2022	1	Paraná	Concordia	414
+2022	1	Paraná	Crespo	10644
+2022	1	Paraná	Córdoba	1256
+2022	1	Paraná	Diamante	266
+2022	1	Paraná	El Calafate	877
+2022	1	Paraná	Eldorado	568
+2022	1	Paraná	General Ramírez	1476
+2022	1	Paraná	Gualeguaychú	762
+2022	1	Paraná	Hasenkamp	1927
+2022	1	Paraná	Ituzaingo	240
+2022	1	Paraná	La Paz	13854
+2022	1	Paraná	Laguna Paiva	428
+2022	1	Paraná	Mar Azul	259
+2022	1	Paraná	Mar del Plata	266
+2022	1	Paraná	María Grande	2580
+2022	1	Paraná	Mendoza, Ciudad de	788
+2022	1	Paraná	Miramar	402
+2022	1	Paraná	Paraná	510
+2022	1	Paraná	Pueblo General San Martín	2372
+2022	1	Paraná	Resistencia	318
+2022	1	Paraná	Rosario	266
+2022	1	Paraná	San Salvador de Jujuy	318
+2022	1	Paraná	Santa Elena	8318
+2022	1	Paraná	Santa Fe	69406
+2022	1	Paraná	Santo Tomé	116
+2022	1	Paraná	Tanti	268
+2022	1	Paraná	Viale	1049
+2022	1	Paraná	Vicente López	258
+2022	1	Paraná	Victoria	3948
+2022	1	Paraná	Villa Gesell	24547
+2022	1	Paraná	Villa San Agustín	126
+2022	1	Paraná	Villa Urquiza	61337
+2022	1	Paraná	Villaguay	402
+2022	2	Concordia	Chajarí	13994
+2022	2	Concordia	Ciudad de Buenos Aires	3511
+2022	2	Concordia	Colonia Ayuí	6602
+2022	2	Concordia	Colonia La Argentina	374
+2022	2	Concordia	Colón	9267
+2022	2	Concordia	Concepción del Uruguay	285
+2022	2	Concordia	Concordia	12569
+2022	2	Concordia	Crespo	384
+2022	2	Concordia	Federación	13212
+2022	2	Concordia	Gualeguaychú	190
+2022	2	Concordia	La Criolla	182
+2022	2	Concordia	Libertador San Martín	675
+2022	2	Concordia	Nueva Escocia	6602
+2022	2	Concordia	Paraná	182
+2022	2	Concordia	Puerto Iguazú	194
+2022	2	Concordia	Puerto Yeruá	10623
+2022	2	Concordia	Quilmes	10284
+2022	2	Concordia	Reconquista	5285
+2022	2	Concordia	Rosario	249
+2022	2	Concordia	Salta	190
+2022	2	Concordia	Santa Ana	6644
+2022	2	Concordia	Santa Fe	760
+2022	2	Concordia	Ubajay	182
+2022	2	Concordia	Ushuaia	111
+2022	2	Concordia	Villa Carlos Paz	190
+2022	2	Paraná	Aldea Brasilera	1610
+2022	2	Paraná	Baradero	23175
+2022	2	Paraná	Cerrito	134
+2022	2	Paraná	Ciudad de Buenos Aires	940
+2022	2	Paraná	Colonia Avellaneda	237
+2022	2	Paraná	Colonia Avigdor	206
+2022	2	Paraná	Colón	103
+2022	2	Paraná	Concepción del Uruguay	4635
+2022	2	Paraná	Concordia	453
+2022	2	Paraná	Crespo	13578
+2022	2	Paraná	Diamante	34483
+2022	2	Paraná	Don Cristóbal	238
+2022	2	Paraná	General Ramírez	670
+2022	2	Paraná	Gálvez	28740
+2022	2	Paraná	Hernandarias	13905
+2022	2	Paraná	La Paz	234
+2022	2	Paraná	Laguna Paiva	412
+2022	2	Paraná	Las Cuevas	888
+2022	2	Paraná	María Grande	2353
+2022	2	Paraná	Paraná	3500
+2022	2	Paraná	Pergamino	480
+2022	2	Paraná	Puerto Iguazú	244
+2022	2	Paraná	Rosario	16403
+2022	2	Paraná	San Benito	134
+2022	2	Paraná	San José de Feliciano	204
+2022	2	Paraná	San José del Rincón	20601
+2022	2	Paraná	San Nicolás de los Arroyos	206
+2022	2	Paraná	San Rafael (Ciudad)	140
+2022	2	Paraná	Santa Elena	9054
+2022	2	Paraná	Santa Fe	33572
+2022	2	Paraná	Ushuaia	230
+2022	2	Paraná	Viale	6356
+2022	2	Paraná	Vicente López	17788
+2022	2	Paraná	Victoria	238
+2022	2	Paraná	Villa Carlos Paz	1226
+2022	2	Paraná	Villa Urquiza	17578
+2022	3	Concordia	Benito Legerén	366
+2022	3	Concordia	Chajarí	25529
+2022	3	Concordia	Ciudad de Buenos Aires	1192
+2022	3	Concordia	Colón	18144
+2022	3	Concordia	Concepción del Uruguay	21682
+2022	3	Concordia	Concordia	4578
+2022	3	Concordia	Corrientes	146
+2022	3	Concordia	Cosquín	146
+2022	3	Concordia	Curuzú Cuatiá	5572
+2022	3	Concordia	Federación	4075
+2022	3	Concordia	Leandro N. Alem	130
+2022	3	Concordia	Libertador San Martín	142
+2022	3	Concordia	Los Charrúas	678
+2022	3	Concordia	Lujan de Cuyo (Ciudad)	563
+2022	3	Concordia	Monte Caseros	118
+2022	3	Concordia	Paraná	60
+2022	3	Concordia	Puerto Yeruá	53580
+2022	3	Concordia	Rosario	1052
+2022	3	Concordia	San Salvador	390
+2022	3	Concordia	Santa Fe	120
+2022	3	Concordia	Ubajay	8166
+2022	3	Concordia	Villaguay	65
+2022	3	Paraná	Aldea Brasilera	232
+2022	3	Paraná	Aldea María Luisa	256
+2022	3	Paraná	Alvear	230
+2022	3	Paraná	Bovril	3885
+2022	3	Paraná	Ciudad de Buenos Aires	1169
+2022	3	Paraná	Colonia Avigdor	588
+2022	3	Paraná	Concepción del Uruguay	11060
+2022	3	Paraná	Crespo	363
+2022	3	Paraná	Córdoba	232
+2022	3	Paraná	Diamante	24233
+2022	3	Paraná	Esperanza	716
+2022	3	Paraná	Federación	606
+2022	3	Paraná	Hernandarias	10382
+2022	3	Paraná	Humahuaca	2955
+2022	3	Paraná	Lujan de Cuyo (Ciudad)	230
+2022	3	Paraná	María Grande	256
+2022	3	Paraná	Merlo	116
+2022	3	Paraná	Oro Verde	696
+2022	3	Paraná	Pilar	232
+2022	3	Paraná	Pueblo Arrúa	3885
+2022	3	Paraná	Pueblo General San Martín	561
+2022	3	Paraná	Puerto Iguazú	235
+2022	3	Paraná	Rosario	2078
+2022	3	Paraná	Rosario del Tala	256
+2022	3	Paraná	Salta	348
+2022	3	Paraná	San Carlos Centro	3382
+2022	3	Paraná	San Nicolás de los Arroyos	312
+2022	3	Paraná	San Pedro	256
+2022	3	Paraná	Santa Anita	5044
+2022	3	Paraná	Santa Fe	116
+2022	3	Paraná	Santa Rosa de Calamuchita	504
+2022	3	Paraná	Tilcara	22975
+2022	3	Paraná	Viamonte	20280
+2022	3	Paraná	Vicente López	256
+2022	3	Paraná	Victoria	272
+2022	3	Paraná	Villa Carlos Paz	128
+2022	3	Paraná	Villa Urquiza	3809
+2022	3	Paraná	Villa de las Rosas	272
+2022	4	Concordia	Chajarí	1098
+2022	4	Concordia	Ciudad de Buenos Aires	1700
+2022	4	Concordia	Colonia Ayuí	620
+2022	4	Concordia	Concordia	2629
+2022	4	Concordia	Federación	8140
+2022	4	Concordia	General Campos	296
+2022	4	Concordia	Gualeguaychú	936
+2022	4	Concordia	La Plata	146
+2022	4	Concordia	Los Charrúas	96
+2022	4	Concordia	Luján	2630
+2022	4	Concordia	Mar del Plata	97
+2022	4	Concordia	Paraná	270
+2022	4	Concordia	Puerto Yeruá	1850
+2022	4	Concordia	Roldán	7440
+2022	4	Concordia	Rosario del Tala	1068
+2022	4	Concordia	Salta	226
+2022	4	Concordia	San José de Feliciano	261
+2022	4	Concordia	San Salvador	1977
+2022	4	Concordia	Santa Fe	3475
+2022	4	Concordia	Villa Carlos Paz	3475
+2022	4	Concordia	Villaguay	4791
+2022	4	Paraná	Aldea Brasilera	222
+2022	4	Paraná	Aldea Spatzenkutter	540
+2022	4	Paraná	Ascochinga	216
+2022	4	Paraná	Cerrito	1035
+2022	4	Paraná	Chajarí	236
+2022	4	Paraná	Ciudad de Buenos Aires	31328
+2022	4	Paraná	Colonia Avellaneda	472
+2022	4	Paraná	Colón	468
+2022	4	Paraná	Córdoba	2802
+2022	4	Paraná	Diamante	234
+2022	4	Paraná	El Pingo	1386
+2022	4	Paraná	El Trébol	4435
+2022	4	Paraná	Enrique Carbó	120
+2022	4	Paraná	Federal	19400
+2022	4	Paraná	General Alvear	222
+2022	4	Paraná	Gessler	7354
+2022	4	Paraná	Hasenkamp	450
+2022	4	Paraná	La Cumbre	216
+2022	4	Paraná	La Rioja	345
+2022	4	Paraná	Mendoza, Ciudad de	324
+2022	4	Paraná	Nogoyá	542
+2022	4	Paraná	Oro Verde	672
+2022	4	Paraná	Paraje La Virgen	222
+2022	4	Paraná	Paraná	1272
+2022	4	Paraná	Piedras Blancas	333
+2022	4	Paraná	Pilar	472
+2022	4	Paraná	Posadas (Municipio de Posadas)	3258
+2022	4	Paraná	Potrero de los Funes	597
+2022	4	Paraná	Pueblo Arrúa	312
+2022	4	Paraná	Pueblo General San Martín	1113
+2022	4	Paraná	Puerto Iguazú	111
+2022	4	Paraná	Salta	324
+2022	4	Paraná	San Carlos de Bariloche	218
+2022	4	Paraná	San Francisco	216
+2022	4	Paraná	Santa Fe	19524
+2022	4	Paraná	Tigre	3560
+2022	4	Paraná	Tinogasta	120
+2022	4	Paraná	Vedia	339
+2022	4	Paraná	Villa Urquiza	2809
+2022	4	Paraná	Villaguay	375
+2023	1	Concordia	Chajarí	4187
+2023	1	Concordia	Ciudad de Buenos Aires	285
+2023	1	Concordia	Colonia Ayuí	364
+2023	1	Concordia	Colón	4064
+2023	1	Concordia	Córdoba	14308
+2023	1	Concordia	Ezeiza	160
+2023	1	Concordia	Federación	342
+2023	1	Concordia	General Campos	160
+2023	1	Concordia	Las Grutas	180
+2023	1	Concordia	Los Charrúas	111
+2023	1	Concordia	Munro	2687
+2023	1	Concordia	Oro Verde	121
+2023	1	Concordia	Puíggari	3959
+2023	1	Concordia	San Carlos de Bariloche	180
+2023	1	Concordia	San Salvador	290
+2023	1	Concordia	Santa Ana	11108
+2023	1	Concordia	Villa Carlos Paz	182
+2023	1	Paraná	25 de Mayo	372
+2023	1	Paraná	Aldea María Luisa	244
+2023	1	Paraná	Aldea Valle María	778
+2023	1	Paraná	Capilla del Monte	244
+2023	1	Paraná	Cerrito	1952
+2023	1	Paraná	Ciudad de Buenos Aires	247
+2023	1	Paraná	Colonia Avellaneda	1875
+2023	1	Paraná	Colonia Avigdor	244
+2023	1	Paraná	Colón	1379
+2023	1	Paraná	Concordia	1164
+2023	1	Paraná	Crespo	73501
+2023	1	Paraná	Córdoba	366
+2023	1	Paraná	Diamante	522
+2023	1	Paraná	Gualeguay	244
+2023	1	Paraná	Hasenkamp	244
+2023	1	Paraná	La Paz	7403
+2023	1	Paraná	La Picada	100440
+2023	1	Paraná	Las Grutas	1875
+2023	1	Paraná	Mar del Plata	1344
+2023	1	Paraná	Mendoza, Ciudad de	366
+2023	1	Paraná	Merlo	250
+2023	1	Paraná	Mina Clavero	244
+2023	1	Paraná	Nogoyá	976
+2023	1	Paraná	Oro Verde	248
+2023	1	Paraná	Paraná	399
+2023	1	Paraná	Rincón Potrero	246
+2023	1	Paraná	Rosario del Tala	244
+2023	1	Paraná	Salta	367
+2023	1	Paraná	San Carlos de Bariloche	6058
+2023	1	Paraná	Santa Clara del Mar	382
+2023	1	Paraná	Santa Elena	8388
+2023	1	Paraná	Santa Fe	43085
+2023	1	Paraná	Sauce Montrull	500
+2023	1	Paraná	Urdinarrain	298
+2023	1	Paraná	Viale	29860
+2023	1	Paraná	Victoria	488
+2023	1	Paraná	Villa Gesell	819
+2023	1	Paraná	Villa Urquiza	530
+2023	1	Paraná	Villaguay	244
